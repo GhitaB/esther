@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: left;
+}
+
+div#gallery div.gallery-item {
+  margin-top: 50px;
+  border-top: 1px solid #EEEEEE;
+}
+
+div#gallery div.gallery-item img {
+  border-radius: 0;
+  max-height: 80vh;
+  margin: 10px auto 0 auto;
+  border: 1px solid #666666;
+  padding: 10px;
+}
+
+div#gallery div.gallery-item div.caption {
+  margin-top: 10px;
+  margin-bottom: 100px;
+  padding: 20px;
+  border-radius: 0;
+  background: #EEEEEE;
+  color: #666666;
+  font-size: 16px;
+  text-align: left;
+}
+
+div#gallery div.gallery-item div.progress {
+  margin-top: 30px;
+}
+
+ul.languages img.flag {
+  width: 50px;
+  height: 30px;
+  pointer: cursor;
+}
+
+ul.languages li {
+  display: inline-block;
+  margin-right: 10px;
+}
