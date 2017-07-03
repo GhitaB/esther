@@ -85,7 +85,7 @@ angular.module('galleryApp', [])
       {
         id: 0,
         img: 'ZZ.png',
-        done: 0,
+        done: 5,
         title: {
           ro: "Coperta",
           en: "Cover"
@@ -98,456 +98,316 @@ angular.module('galleryApp', [])
       {
         id: 1,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 1:1-4",
+          en: "Esther 1:1-4"
         }
       },
       {
         id: 2,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 1:5-8",
+          en: "Esther 1:5-8"
         }
       },
       {
         id: 3,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 1:9-12",
+          en: "Esther 1:9-12"
         }
       },
       {
         id: 4,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 1:13-20",
+          en: "Esther 1:13-20"
         }
       },
       {
         id: 5,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 1:21-22",
+          en: "Esther 1:21-22"
         }
       },
       {
         id: 6,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 2:1-4",
+          en: "Esther 2:1-4"
         }
       },
       {
         id: 7,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 2:5-7",
+          en: "Esther 2:5-7"
         }
       },
       {
         id: 8,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 2:8-11",
+          en: "Esther 2:8-11"
         }
       },
       {
         id: 9,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 2:12-14",
+          en: "Esther 2:12-14"
         }
       },
       {
         id: 10,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 2:15-20",
+          en: "Esther 2:15-20"
         }
       },
       {
         id: 11,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 2:21-23",
+          en: "Esther 2:21-23"
         }
       },
       {
         id: 12,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 3:1-6",
+          en: "Esther 3:1-6"
         }
       },
       {
         id: 13,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 3:7-11",
+          en: "Esther 3:7-11"
         }
       },
       {
         id: 14,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 3:12-15",
+          en: "Esther 3:12-15"
         }
       },
       {
         id: 15,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 4:1-8",
+          en: "Esther 4:1-8"
         }
       },
       {
         id: 16,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 4:9-17",
+          en: "Esther 4:9-17"
         }
       },
       {
         id: 17,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 5:1-5",
+          en: "Esther 5:1-5"
         }
       },
       {
         id: 18,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 5:6-8",
+          en: "Esther 5:6-8"
         }
       },
       {
         id: 19,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 5:9-14",
+          en: "Esther 5:9-14"
         }
       },
       {
         id: 20,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 6:1-5",
+          en: "Esther 6:1-5"
         }
       },
       {
         id: 21,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 6:6-9",
+          en: "Esther 6:6-9"
         }
       },
       {
         id: 22,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 6:10-14",
+          en: "Esther 6:10-14"
         }
       },
       {
         id: 23,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 7:1-6",
+          en: "Esther 7:1-6"
         }
       },
       {
         id: 24,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 7:7-10",
+          en: "Esther 7:7-10"
         }
       },
       {
         id: 25,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 8:1-6",
+          en: "Esther 8:1-6"
         }
       },
       {
         id: 26,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 8:7-9",
+          en: "Esther 8:7-9"
         }
       },
       {
         id: 27,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 8:10-13",
+          en: "Esther 8:10-13"
         }
       },
       {
         id: 28,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 8:14-17",
+          en: "Esther 8:14-17"
         }
       },
       {
         id: 29,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 9:1-4",
+          en: "Esther 9:1-4"
         }
       },
       {
         id: 30,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 9:5-10",
+          en: "Esther 9:5-10"
         }
       },
       {
         id: 31,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 9:11-16",
+          en: "Esther 9:11-16"
         }
       },
       {
         id: 32,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 9:17-22",
+          en: "Esther 9:17-22"
         }
       },
       {
         id: 33,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 9:23-27",
+          en: "Esther 9:23-27"
         }
       },
       {
         id: 34,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 9:28-32",
+          en: "Esther 9:28-32"
         }
       },
       {
         id: 35,
         img: 'ZZ.png',
-        done: 0,
-        title: {
-          ro: "Titlu",
-          en: "Title"
-        },
+        done: 5,
         text: {
-          ro: "Text aici",
-          en: "Text here"
+          ro: "Estera 10:1-3",
+          en: "Esther 10:1-3"
         }
       }
     ];
