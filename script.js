@@ -160,8 +160,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 8,
-        img: '08.jpg',
-        done: 25,
+        img: '08.png',
+        done: 30,
         text: {
           ro: "Estera 2:8-11",
           en: "Esther 2:8-11"
@@ -169,8 +169,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 9,
-        img: '09.jpg',
-        done: 25,
+        img: '09.png',
+        done: 30,
         text: {
           ro: "Estera 2:12-14",
           en: "Esther 2:12-14"
@@ -178,8 +178,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 10,
-        img: 'ZZ.png',
-        done: 5,
+        img: '10.png',
+        done: 30,
         text: {
           ro: "Estera 2:15-20",
           en: "Esther 2:15-20"
