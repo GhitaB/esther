@@ -187,8 +187,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 11,
-        img: 'ZZ.png',
-        done: 5,
+        img: '11.png',
+        done: 30,
         text: {
           ro: "Estera 2:21-23",
           en: "Esther 2:21-23"
