@@ -85,7 +85,7 @@ angular.module('galleryApp', [])
       {
         id: 0,
         img: '00.png',
-        done: 40,
+        done: 50,
         title: {
           ro: "Coperta",
           en: "Cover"
@@ -196,8 +196,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 12,
-        img: 'ZZ.png',
-        done: 5,
+        img: '12.png',
+        done: 25,
         text: {
           ro: "Estera 3:1-6",
           en: "Esther 3:1-6"
@@ -205,8 +205,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 13,
-        img: 'ZZ.png',
-        done: 5,
+        img: '13.png',
+        done: 25,
         text: {
           ro: "Estera 3:7-11",
           en: "Esther 3:7-11"
@@ -214,8 +214,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 14,
-        img: 'ZZ.png',
-        done: 5,
+        img: '14.png',
+        done: 25,
         text: {
           ro: "Estera 3:12-15",
           en: "Esther 3:12-15"
