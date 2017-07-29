@@ -197,7 +197,7 @@ angular.module('galleryApp', [])
       {
         id: 12,
         img: '12.png',
-        done: 25,
+        done: 30,
         text: {
           ro: "Estera 3:1-6",
           en: "Esther 3:1-6"
@@ -206,7 +206,7 @@ angular.module('galleryApp', [])
       {
         id: 13,
         img: '13.png',
-        done: 25,
+        done: 30,
         text: {
           ro: "Estera 3:7-11",
           en: "Esther 3:7-11"
@@ -215,7 +215,7 @@ angular.module('galleryApp', [])
       {
         id: 14,
         img: '14.png',
-        done: 25,
+        done: 30,
         text: {
           ro: "Estera 3:12-15",
           en: "Esther 3:12-15"
