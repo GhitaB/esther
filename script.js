@@ -223,8 +223,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 15,
-        img: 'ZZ.png',
-        done: 5,
+        img: '15.jpg',
+        done: 25,
         text: {
           ro: "Estera 4:1-8",
           en: "Esther 4:1-8"
@@ -232,8 +232,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 16,
-        img: 'ZZ.png',
-        done: 5,
+        img: '16.jpg',
+        done: 25,
         text: {
           ro: "Estera 4:9-17",
           en: "Esther 4:9-17"
@@ -241,8 +241,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 17,
-        img: 'ZZ.png',
-        done: 5,
+        img: '17.jpg',
+        done: 25,
         text: {
           ro: "Estera 5:1-5",
           en: "Esther 5:1-5"
@@ -250,8 +250,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 18,
-        img: 'ZZ.png',
-        done: 5,
+        img: '18.jpg',
+        done: 25,
         text: {
           ro: "Estera 5:6-8",
           en: "Esther 5:6-8"
@@ -259,8 +259,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 19,
-        img: 'ZZ.png',
-        done: 5,
+        img: '19.jpg',
+        done: 25,
         text: {
           ro: "Estera 5:9-14",
           en: "Esther 5:9-14"
@@ -268,8 +268,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 20,
-        img: 'ZZ.png',
-        done: 5,
+        img: '20.jpg',
+        done: 25,
         text: {
           ro: "Estera 6:1-5",
           en: "Esther 6:1-5"
@@ -277,8 +277,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 21,
-        img: 'ZZ.png',
-        done: 5,
+        img: '21.jpg',
+        done: 25,
         text: {
           ro: "Estera 6:6-9",
           en: "Esther 6:6-9"
@@ -286,8 +286,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 22,
-        img: 'ZZ.png',
-        done: 5,
+        img: '22.jpg',
+        done: 25,
         text: {
           ro: "Estera 6:10-14",
           en: "Esther 6:10-14"
@@ -295,8 +295,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 23,
-        img: 'ZZ.png',
-        done: 5,
+        img: '23.jpg',
+        done: 25,
         text: {
           ro: "Estera 7:1-6",
           en: "Esther 7:1-6"
