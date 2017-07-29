@@ -304,8 +304,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 24,
-        img: 'ZZ.png',
-        done: 5,
+        img: '24.jpg',
+        done: 25,
         text: {
           ro: "Estera 7:7-10",
           en: "Esther 7:7-10"
@@ -313,8 +313,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 25,
-        img: 'ZZ.png',
-        done: 5,
+        img: '25.jpg',
+        done: 25,
         text: {
           ro: "Estera 8:1-6",
           en: "Esther 8:1-6"
@@ -322,8 +322,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 26,
-        img: 'ZZ.png',
-        done: 5,
+        img: '26.jpg',
+        done: 25,
         text: {
           ro: "Estera 8:7-9",
           en: "Esther 8:7-9"
@@ -331,8 +331,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 27,
-        img: 'ZZ.png',
-        done: 5,
+        img: '27.jpg',
+        done: 25,
         text: {
           ro: "Estera 8:10-13",
           en: "Esther 8:10-13"
@@ -340,8 +340,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 28,
-        img: 'ZZ.png',
-        done: 5,
+        img: '28.jpg',
+        done: 25,
         text: {
           ro: "Estera 8:14-17",
           en: "Esther 8:14-17"
@@ -349,8 +349,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 29,
-        img: 'ZZ.png',
-        done: 5,
+        img: '29.jpg',
+        done: 25,
         text: {
           ro: "Estera 9:1-4",
           en: "Esther 9:1-4"
@@ -358,8 +358,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 30,
-        img: 'ZZ.png',
-        done: 5,
+        img: '30.jpg',
+        done: 25,
         text: {
           ro: "Estera 9:5-10",
           en: "Esther 9:5-10"
@@ -367,8 +367,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 31,
-        img: 'ZZ.png',
-        done: 5,
+        img: '31.jpg',
+        done: 25,
         text: {
           ro: "Estera 9:11-16",
           en: "Esther 9:11-16"
@@ -376,8 +376,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 32,
-        img: 'ZZ.png',
-        done: 5,
+        img: '32.jpg',
+        done: 25,
         text: {
           ro: "Estera 9:17-22",
           en: "Esther 9:17-22"
@@ -385,8 +385,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 33,
-        img: 'ZZ.png',
-        done: 5,
+        img: '33.jpg',
+        done: 25,
         text: {
           ro: "Estera 9:23-27",
           en: "Esther 9:23-27"
@@ -394,8 +394,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 34,
-        img: 'ZZ.png',
-        done: 5,
+        img: '34.jpg',
+        done: 25,
         text: {
           ro: "Estera 9:28-32",
           en: "Esther 9:28-32"
@@ -403,8 +403,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 35,
-        img: 'ZZ.png',
-        done: 5,
+        img: '35.jpg',
+        done: 25,
         text: {
           ro: "Estera 10:1-3",
           en: "Esther 10:1-3"
