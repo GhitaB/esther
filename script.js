@@ -100,7 +100,16 @@ angular.module('galleryApp', [])
         img: '01.png',
         done: 30,
         text: {
-          ro: "Estera 1:1-4",
+          ro: "Estera 1:1-4: Era pe vremea lui Ahaşveroş, al acelui " +
+            "Ahaşveroş care domnea de la India până în Etiopia, peste o " +
+            "sută douăzeci şi şapte de ţinuturi. Împăratul Ahaşveroş şedea " +
+            "atunci pe scaunul lui împărătesc la Susa, în capitală. În al " +
+            "treilea an al domniei lui, a dat un ospăţ tuturor domnitorilor " +
+            "şi slujitorilor săi. Căpeteniile oştirii perşilor şi mezilor, " +
+            "mai marii şi capii ţinuturilor s-au strâns înaintea lui. " +
+            "El le-a arătat bogăţia strălucită a împărăţiei lui şi slava " +
+            "minunată a mărimii lui, în multe zile, timp de o sută optzeci " +
+            "de zile.",
           en: "Esther 1:1-4"
         }
       },
