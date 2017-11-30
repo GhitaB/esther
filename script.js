@@ -170,7 +170,16 @@ angular.module('galleryApp', [])
             "Dar împărăteasa Vasti n-a vrut să vină când a primit prin " +
             "fameni porunca împăratului. Şi împăratul s-a supărat foarte " +
             "tare, s-a aprins de mânie.",
-          en: "Esther 1:9-12"
+          en: "Esther 1:9-12 Also Vashti the queen made a feast for the " +
+"women in the royal house which belonged to king Ahasuerus. " +
+"On the seventh day, when the heart of the king was merry with wine, he " +
+"commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and " +
+"Carcas, the seven chamberlains that served in the presence of Ahasuerus " +
+"the king, To bring Vashti the queen before the king with the crown royal, " +
+"to shew the people and the princes her beauty: for she was fair to look " +
+"on. But the queen Vashti refused to come at the king's commandment by his " +
+"chamberlains: therefore was the king very wroth, and his anger burned " +
+"in him."
         }
       },
       {
