@@ -849,7 +849,21 @@ angular.module('galleryApp', [])
             "putea face nimic împotriva lui, ci vei cădea înaintea lui.\" " +
             "Pe când îi vorbeau ei încă, au venit famenii împăratului şi " +
             "au luat îndată pe Haman la ospăţul pe care-l pregătise Estera.",
-          en: "Esther 6:10-14"
+          en: "Esther 6:10-14 Then the king said to Haman, Make haste, and " +
+"take the apparel and the horse, as thou hast said, and do even so to " +
+"Mordecai the Jew, that sitteth at the king's gate: let nothing fail of " +
+"all that thou hast spoken. Then took Haman the apparel and the horse, " +
+"and arrayed Mordecai, and brought him on horseback through the street of " +
+"the city, and proclaimed before him, Thus shall it be done unto the man " +
+"whom the king delighteth to honour. And Mordecai came again to the " +
+"king's gate. But Haman hasted to his house mourning, and having his " +
+"head covered. And Haman told Zeresh his wife and all his friends every " +
+"thing that had befallen him. Then said his wise men and Zeresh his wife " +
+"unto him, If Mordecai be of the seed of the Jews, before whom thou " +
+"hast begun to fall, thou shalt not prevail against him, but shalt surely " +
+"fall before him. And while they were yet talking with him, came the " +
+"king's chamberlains, and hasted to bring Haman unto the banquet that " +
+"Esther had prepared."
         }
       },
       {
