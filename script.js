@@ -465,7 +465,21 @@ angular.module('galleryApp', [])
             "din ce popor era Mardoheu, şi a voit să nimicească pe poporul " +
             "lui Mardoheu, pe toţi iudeii care se aflau în toată " +
             "împărăţia lui Ahaşveroş.",
-          en: "Esther 3:1-6"
+          en: "Esther 3:1-6: After these things did king Ahasuerus promote " +
+"Haman the son of Hammedatha the Agagite, and advanced him, and set his " +
+"seat above all the princes that were with him. And all the king's " +
+"servants, that were in the king's gate, bowed, and reverenced Haman: for " +
+"the king had so commanded concerning him. But Mordecai bowed not, nor " +
+"did him reverence. Then the king's servants, which were in the king's " +
+"gate, said unto Mordecai, Why transgressest thou the king's commandment? " +
+"Now it came to pass, when they spake daily unto him, and he hearkened not " +
+"unto them, that they told Haman, to see whether Mordecai's matters would " +
+"stand: for he had told them that he was a Jew. And when Haman saw that " +
+"Mordecai bowed not, nor did him reverence, then was Haman full of wrath. " +
+"And he thought scorn to lay hands on Mordecai alone; for they had " +
+"shewed him the people of Mordecai: wherefore Haman sought to destroy all " +
+"the Jews that were throughout the whole kingdom of Ahasuerus, even the " +
+"people of Mordecai."
         }
       },
       {
