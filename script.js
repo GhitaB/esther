@@ -284,7 +284,25 @@ angular.module('galleryApp', [])
         img: '10.png',
         done: 30,
         text: {
-          ro: "Estera 2:15-20",
+          ro: "Estera 2:15-20 Când i-a venit rândul să se ducă la împărat, " +
+            "Estera, fata lui Abihail, unchiul lui Mardoheu, care o " +
+            "înfiase, n-a cerut decât ce a fost rânduit de Hegai, famenul " +
+            "împăratului şi păzitorul femeilor. Estera căpăta trecere " +
+            "înaintea tuturor celor ce o vedeau. Estera a fost dusă la " +
+            "împăratul Ahaşveroş, în casa împărătească, în luna a zecea, " +
+            "adică luna Tebet, în al şaptelea an al domniei lui. " +
+            "Împăratul a iubit pe Estera mai mult decât pe toate celelalte " +
+            "femei, şi ea a căpătat trecere şi iubire înaintea lui mai " +
+            "mult decât toate celelalte fete. I-a pus cununa împărătească " +
+            "pe cap şi a făcut-o împărăteasă în locul Vastiei. " +
+            "Împăratul a dat un mare ospăţ tuturor domnitorilor şi " +
+            "slujitorilor lui, un ospăţ în cinstea Esterei. Cu prilejul " +
+            "acesta a uşurat sarcinile ţinuturilor şi a împărţit daruri " +
+            "cu o dărnicie împărătească. A doua oară când s-au strâns " +
+            "fetele, Mardoheu şedea la poarta împăratului. Estera nu-şi " +
+            "spusese nici naşterea, nici poporul, căci o oprise Mardoheu. " +
+            "Şi ea urma acum poruncile lui Mardoheu cu tot atâta " +
+            "scumpătate ca atunci când o creştea el.",
           en: "Esther 2:15-20"
         }
       },
