@@ -932,7 +932,20 @@ angular.module('galleryApp', [])
 "sunt în toate ţinuturile împăratului. Căci cum aş putea eu să văd " +
 "nenorocirea care ar atinge pe poporul meu şi cum aş putea să văd " +
 "nimicirea neamului meu?\"",
-          en: "Esther 8:1-6"
+          en: "Esther 8:1-6 So the king and Haman came to banquet with " +
+"Esther the queen. And the king said again unto Esther on the second day " +
+"at the banquet of wine, What is thy petition, queen Esther? and it shall " +
+"be granted thee: and what is thy request? and it shall be performed, " +
+"even to the half of the kingdom. Then Esther the queen answered and " +
+"said, If I have found favour in thy sight, O king, and if it please " +
+"the king, let my life be given me at my petition, and my people at my " +
+"request: For we are sold, I and my people, to be destroyed, to be slain, " +
+"and to perish. But if we had been sold for bondmen and bondwomen, I had " +
+"held my tongue, although the enemy could not countervail the king's " +
+"damage. Then the king Ahasuerus answered and said unto Esther the queen, " +
+"Who is he, and where is he, that durst presume in his heart to do so? " +
+"And Esther said, The adversary and enemy is this wicked Haman. Then " +
+"Haman was afraid before the king and the queen."
         }
       },
       {
