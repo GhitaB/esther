@@ -356,7 +356,22 @@ angular.module('galleryApp', [])
         img: '13.png',
         done: 30,
         text: {
-          ro: "Estera 3:7-11",
+          ro: "Estera 3:7-11 În luna întâi, adică luna Nisan, în al " +
+            "doisprezecelea an al împăratului Ahaşveroş, au aruncat Pur, " +
+            "adică sorţul, înaintea lui Haman, pentru fiecare zi şi pentru " +
+            "fiecare lună, până în luna a douăsprezecea, adică luna Adar. " +
+            "Atunci Haman a zis împăratului Ahaşveroş: \"În toate " +
+            "ţinuturile împărăţiei tale este risipit un popor deosebit " +
+            "între popoare, care are legi deosebite de ale tuturor " +
+            "popoarelor şi nu ţine legile împăratului. Nu este în folosul " +
+            "împăratului să-l lase liniştit. Dacă împăratul găseşte cu " +
+            "cale, să se scrie o poruncă pentru ca ei să fie nimiciţi, şi " +
+            "eu voi cântări zece mii de talanţi de argint în mâinile " +
+            "slujbaşilor, ca să-i ducă în vistieria împăratului.\" " +
+            "Împăratul şi-a scos inelul din deget şi l-a dat lui Haman, " +
+            "fiul lui Hamedata, agaghitul, vrăjmaşul iudeilor. Şi împăratul " +
+            "a zis lui Haman: \"Îţi dăruiesc şi argintul şi pe poporul " +
+            "acesta; fă cu el ce vei voi.",
           en: "Esther 3:7-11"
         }
       },
