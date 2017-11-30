@@ -311,7 +311,16 @@ angular.module('galleryApp', [])
         img: '11.png',
         done: 30,
         text: {
-          ro: "Estera 2:21-23",
+          ro: "Estera 2:21-23 În acelaşi timp, pe când Mardoheu stătea " +
+            "la poarta împăratului, Bigtan şi Tereş, doi fameni ai " +
+            "împăratului, păzitorii pragului, s-au lăsat biruiţi de o " +
+            "supărare şi au vrut să întindă mâna împotriva împăratului " +
+            "Ahaşveroş. Mardoheu a avut cunoştinţă de lucrul acesta şi a " +
+            "dat de ştire împărătesei Estera, care l-a spus împăratului " +
+            "din partea lui Mardoheu. Faptul fiind cercetat şi găsit " +
+            "întocmai, cei doi fameni au fost spânzuraţi de un lemn. Şi " +
+            "lucrul acesta a fost scris în cartea Cronicilor, în faţa " +
+            "împăratului.",
           en: "Esther 2:21-23"
         }
       },
