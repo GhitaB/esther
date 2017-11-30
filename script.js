@@ -1056,7 +1056,16 @@ angular.module('galleryApp', [])
 "împăratului şi hotărârea lui, a fost între iudei bucurie şi veselie, " +
 "ospeţe şi zile de sărbătoare. Şi mulţi oameni dintre popoarele ţării " +
 "s-au făcut iudei, căci îi apucase frica de iudei.",
-          en: "Esther 8:14-17"
+          en: "Esther 8:14-17 So the posts that rode upon mules and camels " +
+"went out, being hastened and pressed on by the king's commandment. And " +
+"the decree was given at Shushan the palace. And Mordecai went out from " +
+"the presence of the king in royal apparel of blue and white, and with " +
+"a great crown of gold, and with a garment of fine linen and purple: and " +
+"the city of Shushan rejoiced and was glad. The Jews had light, and " +
+"gladness, and joy, and honour. And in every province, and in every " +
+"city, whithersoever the king's commandment and his decree came, the Jews " +
+"had joy and gladness, a feast and a good day. And many of the people of " +
+"the land became Jews; for the fear of the Jews fell upon them."
         }
       },
       {
