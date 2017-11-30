@@ -360,7 +360,17 @@ angular.module('galleryApp', [])
             "împăratului şi păzitorul ţiitoarelor împăratului. Nu se mai " +
             "întorcea la împărat, decât când ar fi dorit împăratul şi " +
             "ar fi chemat-o pe nume.",
-          en: "Esther 2:12-14"
+          en: "Esther 2:12-14 Now when every maid's turn was come to go " +
+"in to king Ahasuerus, after that she had been twelve months, according to " +
+"the manner of the women, (for so were the days of their purifications " +
+"accomplished, to wit, six months with oil of myrrh, and six months with " +
+"sweet odours, and with other things for the purifying of the women;) " +
+"Then thus came every maiden unto the king; whatsoever she desired was " +
+"given her to go with her out of the house of the women unto the king's " +
+"house. In the evening she went, and on the morrow she returned into the " +
+"second house of the women, to the custody of Shaashgaz, the king's " +
+"chamberlain, which kept the concubines: she came in unto the king no " +
+"more, except the king delighted in her, and that she were called by name."
         }
       },
       {
