@@ -329,7 +329,25 @@ angular.module('galleryApp', [])
         img: '12.png',
         done: 30,
         text: {
-          ro: "Estera 3:1-6",
+          ro: "Estera 3:1-6 După aceste lucruri, împăratul Ahaşveroş a " +
+            "ridicat la putere pe Haman, fiul lui Hamedata, agaghitul. L-a " +
+            "ridicat în cinste şi a pus scaunul lui mai presus de scaunele " +
+            "tuturor căpeteniilor care erau lângă el. Toţi slujitorii " +
+            "împăratului care stăteau la poarta împăratului plecau " +
+            "genunchiul şi se închinau înaintea lui Haman, căci aşa era " +
+            "porunca împăratului cu privire la el. Dar Mardoheu nu-şi " +
+            "pleca genunchiul şi nu se închina. Și slujitorii împăratului " +
+            "care stăteau la poarta împăratului au zis lui " +
+            "Mardoheu: \"Pentru ce calci porunca împăratului?\" Fiindcă ei " +
+            "îi spuneau în fiecare zi lucrul acesta, şi el nu-i asculta, " +
+            "l-au spus lui Haman ca să vadă dacă Mardoheu are să se ţină " +
+            "de hotărârea lui; căci el spusese că este iudeu. Şi Haman a " +
+            "văzut că Mardoheu nu-şi pleca genunchiul şi nu se închina " +
+            "înaintea lui. S-a umplut de mânie; dar a crezut prea puţin " +
+            "pentru el să pună mâna numai pe Mardoheu, căci i se spusese " +
+            "din ce popor era Mardoheu, şi a voit să nimicească pe poporul " +
+            "lui Mardoheu, pe toţi iudeii care se aflau în toată " +
+            "împărăţia lui Ahaşveroş.",
           en: "Esther 3:1-6"
         }
       },
