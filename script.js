@@ -226,7 +226,15 @@ angular.module('galleryApp', [])
         img: '07.png',
         done: 30,
         text: {
-          ro: "Estera 2:5-7",
+          ro: "Estera 2:5-7 În capitala Susa era un iudeu, numit " +
+            "Mardoheu, fiul lui Iair, fiul lui Şimei, fiul lui Chis, " +
+            "bărbat din Beniamin, care fusese luat din Ierusalim printre " +
+            "robii strămutaţi împreună cu Ieconia, împăratul lui Iuda, " +
+            "de Nebucadneţar, împăratul Babilonului. El creştea pe Hadasa, " +
+            "adică Estera, fata unchiului său; căci ea n-avea nici tată, " +
+            "nici mamă. Fata era frumoasă la statură şi plăcută la vedere. " +
+            "După moartea tatălui şi a mamei sale, Mardoheu o luase de " +
+            "suflet.",
           en: "Esther 2:5-7"
         }
       },
