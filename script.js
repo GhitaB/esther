@@ -110,7 +110,17 @@ angular.module('galleryApp', [])
             "El le-a arătat bogăţia strălucită a împărăţiei lui şi slava " +
             "minunată a mărimii lui, în multe zile, timp de o sută optzeci " +
             "de zile.",
-          en: "Esther 1:1-4"
+          en: "Esther 1:1-4: Now it came to pass in the days of Ahasuerus, " +
+            "(this is Ahasuerus which reigned, from India even unto " +
+            "Ethiopia, over an hundred and seven and twenty provinces:) " +
+            "That in those days, when the king Ahasuerus sat on the throne " +
+            "of his kingdom, which was in Shushan the palace, " +
+            "In the third year of his reign, he made a feast unto all his " +
+            "princes and his servants; the power of Persia and Media, the " +
+            "nobles and princes of the provinces, being before him: " +
+            "When he shewed the riches of his glorious kingdom and the " +
+            "honour of his excellent majesty many days, even an hundred " +
+            "and fourscore days."
         }
       },
       {
@@ -130,7 +140,18 @@ angular.module('galleryApp', [])
             "belşug de vin împărătesc, mulţumită dărniciei împăratului. " +
             "Dar nimeni nu era silit să bea, căci împăratul poruncise " +
             "tuturor oamenilor din casa lui să facă după voia fiecăruia.",
-          en: "Esther 1:5-8"
+          en: "Esther 1:5-8: And when these days were expired, the king " +
+"made a feast unto all the people that were present in Shushan the palace, " +
+"both unto great and small, seven days, in the court of the garden of the " +
+"king's palace; Where were white, green, and blue, hangings, fastened " +
+"with cords of fine linen and purple to silver rings and pillars of " +
+"marble: the beds were of gold and silver, upon a pavement of red, and " +
+"blue, and white, and black, marble. And they gave them drink in vessels " +
+"of gold, (the vessels being diverse one from another,) and royal wine in " +
+"abundance, according to the state of the king. And the drinking was " +
+"according to the law; none did compel: for so the king had appointed to " +
+"all the officers of his house, that they should do according to every " +
+"man's pleasure."
         }
       },
       {
