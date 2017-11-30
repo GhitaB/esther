@@ -431,7 +431,14 @@ angular.module('galleryApp', [])
             "întocmai, cei doi fameni au fost spânzuraţi de un lemn. Şi " +
             "lucrul acesta a fost scris în cartea Cronicilor, în faţa " +
             "împăratului.",
-          en: "Esther 2:21-23"
+          en: "Esther 2:21-23: In those days, while Mordecai sat in the " +
+"king's gate, two of the king's chamberlains, Bigthan and Teresh, of those " +
+"which kept the door, were wroth, and sought to lay hand on the king " +
+"Ahasuerus. And the thing was known to Mordecai, who told it unto Esther " +
+"the queen; and Esther certified the king thereof in Mordecai's name. " +
+"And when inquisition was made of the matter, it was found out; therefore " +
+"they were both hanged on a tree: and it was written in the book of the " +
+"chronicles before the king."
         }
       },
       {
