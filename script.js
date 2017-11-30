@@ -588,7 +588,27 @@ angular.module('galleryApp', [])
             "nimicirii lor, ca s-o arate Esterei şi să-i spună totul. Şi " +
             "a poruncit ca Estera să se ducă la împărat să-l roage şi să " +
             "stăruie de el pentru poporul său.",
-          en: "Esther 4:1-8"
+          en: "Esther 4:1-8: When Mordecai perceived all that was done, " +
+"Mordecai rent his clothes, and put on sackcloth with ashes, and went out " +
+"into the midst of the city, and cried with a loud and a bitter cry; " +
+"And came even before the king's gate: for none might enter into the king's " +
+"gate clothed with sackcloth. And in every province, whithersoever the " +
+"king's commandment and his decree came, there was great mourning among " +
+"the Jews, and fasting, and weeping, and wailing; and many lay in " +
+"sackcloth and ashes. So Esther's maids and her chamberlains came and told " +
+"it her. Then was the queen exceedingly grieved; and she sent raiment to " +
+"clothe Mordecai, and to take away his sackcloth from him: but he received " +
+"it not. Then called Esther for Hatach, one of the king's chamberlains, " +
+"whom he had appointed to attend upon her, and gave him a commandment to " +
+"Mordecai, to know what it was, and why it was. So Hatach went forth to " +
+"Mordecai unto the street of the city, which was before the king's gate. " +
+"And Mordecai told him of all that had happened unto him, and of the sum " +
+"of the money that Haman had promised to pay to the king's treasuries for " +
+"the Jews, to destroy them. Also he gave him the copy of the writing of " +
+"the decree that was given at Shushan to destroy them, to shew it unto " +
+"Esther, and to declare it unto her, and to charge her that she should go " +
+"in unto the king, to make supplication unto him, and to make request " +
+"before him for her people."
         }
       },
       {
