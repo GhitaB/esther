@@ -815,7 +815,18 @@ angular.module('galleryApp', [])
             "cal prin locul deschis al cetăţii şi să se strige înaintea " +
             "lui: \"Aşa se face omului pe care vrea împăratul să-l " +
             "cinstească!\"",
-          en: "Esther 6:6-9"
+          en: "Esther 6:6-9 So Haman came in. And the king said unto " +
+"him, What shall be done unto the man whom the king delighteth to honour? " +
+"Now Haman thought in his heart, To whom would the king delight to do " +
+"honour more than to myself? And Haman answered the king, For the man " +
+"whom the king delighteth to honour, Let the royal apparel be brought " +
+"which the king useth to wear, and the horse that the king rideth upon, " +
+"and the crown royal which is set upon his head: And let this apparel " +
+"and horse be delivered to the hand of one of the king's most noble " +
+"princes, that they may array the man withal whom the king delighteth to " +
+"honour, and bring him on horseback through the street of the city, and " +
+"proclaim before him, Thus shall it be done to the man whom the king " +
+"delighteth to honour."
         }
       },
       {
