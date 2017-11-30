@@ -556,7 +556,20 @@ angular.module('galleryApp', [])
         img: '21.jpg',
         done: 25,
         text: {
-          ro: "Estera 6:6-9",
+          ro: "Estera 6:6-9 Haman a intrat, şi împăratul i-a zis: \"Ce " +
+            "trebuie făcut pentru un om pe care vrea să-l cinstească " +
+            "împăratul?\" Haman şi-a zis în sine: \"Pe cine altul decât " +
+            "pe mine ar vrea împăratul să-l cinstească?\" Şi Haman a " +
+            "răspuns împăratului: \"Omului pe care vrea împăratul să-l " +
+            "cinstească trebuie să i se aducă haina împărătească, aceea " +
+            "cu care se îmbracă împăratul, şi calul pe care călăreşte " +
+            "împăratul şi să i se pună cununa împărătească pe cap. " +
+            "Să se dea haina şi calul uneia din căpeteniile de seamă ale " +
+            "împăratului, apoi să îmbrace cu haina pe omul acela pe " +
+            "care vrea să-l cinstească împăratul, să-l plimbe călare pe " +
+            "cal prin locul deschis al cetăţii şi să se strige înaintea " +
+            "lui: \"Aşa se face omului pe care vrea împăratul să-l " +
+            "cinstească!\"",
           en: "Esther 6:6-9"
         }
       },
