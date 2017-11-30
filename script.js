@@ -206,7 +206,18 @@ angular.module('galleryApp', [])
         img: '06.png',
         done: 30,
         text: {
-          ro: "Estera 2:1-4",
+          ro: "Estera 2:1-4 După aceste lucruri, când s-a potolit mânia " +
+            "împăratului Ahaşveroş, s-a gândit la Vasti, la ce făcuse ea " +
+            "şi la hotărârea luată cu privire la ea. Atunci cei ce slujeau " +
+            "împăratului au zis: \"Să se caute pentru împărat nişte fete " +
+            "fecioare şi frumoase. Împăratul să pună în toate ţinuturile " +
+            "din împărăţia lui dregători însărcinaţi să strângă pe toate " +
+            "fetele fecioare şi frumoase, în capitala Susa, în casa " +
+            "femeilor, sub privegherea lui Hegai, famenul împăratului şi " +
+            "păzitorul femeilor, care să le dea cele trebuincioase pentru " +
+            "gătit. Și fata care-i va plăcea împăratului să fie " +
+            "împărăteasă în locul Vastiei.\" Părerea aceasta a fost " +
+            "primită de împărat, şi aşa a făcut.",
           en: "Esther 2:1-4"
         }
       },
