@@ -466,7 +466,21 @@ angular.module('galleryApp', [])
         img: '17.jpg',
         done: 25,
         text: {
-          ro: "Estera 5:1-5",
+          ro: "Estera 5:1-5 A treia zi, Estera s-a îmbrăcat cu hainele " +
+            "împărăteşti şi a venit în curtea dinăuntru a casei " +
+            "împăratului, înaintea casei împăratului. Împăratul şedea pe " +
+            "scaunul lui împărătesc în casa împărătească, în faţa uşii " +
+            "casei. Când a văzut împăratul pe împărăteasa Estera în " +
+            "picioare în curte, ea a căpătat trecere înaintea lui. Şi " +
+            "împăratul a întins Esterei toiagul împărătesc pe care-l " +
+            "ţinea în mână. Estera s-a apropiat şi a atins vârful " +
+            "toiagului. Împăratul i-a zis: \"Ce ai tu, împărăteasă Estero, " +
+            "şi ce ceri? Chiar dacă ai cere jumătate din împărăţie, îţi " +
+            "voi da.\" Estera a răspuns: \"Dacă împăratul găseşte cu cale, " +
+            "să vină împăratul astăzi cu Haman la ospăţul pe care i l-am " +
+            "pregătit.\" Şi împăratul a zis: \"Duceţi-vă îndată şi " +
+            "aduceţi pe Haman, cum doreşte Estera.\" Împăratul s-a dus " +
+            "cu Haman la ospăţul pe care-l pregătise Estera.",
           en: "Esther 5:1-5"
         }
       },
