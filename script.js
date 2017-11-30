@@ -275,7 +275,16 @@ angular.module('galleryApp', [])
             "gătit. Și fata care-i va plăcea împăratului să fie " +
             "împărăteasă în locul Vastiei.\" Părerea aceasta a fost " +
             "primită de împărat, şi aşa a făcut.",
-          en: "Esther 2:1-4"
+          en: "Esther 2:1-4 After these things, when the wrath of king " +
+"Ahasuerus was appeased, he remembered Vashti, and what she had done, and " +
+"what was decreed against her. Then said the king's servants that " +
+"ministered unto him, Let there be fair young virgins sought for the king: " +
+"And let the king appoint officers in all the provinces of his kingdom, " +
+"that they may gather together all the fair young virgins unto Shushan the " +
+"palace, to the house of the women, unto the custody of Hege the king's " +
+"chamberlain, keeper of the women; and let their things for purification " +
+"be given them: And let the maiden which pleaseth the king be queen " +
+"instead of Vashti. And the thing pleased the king; and he did so."
         }
       },
       {
@@ -292,7 +301,14 @@ angular.module('galleryApp', [])
             "nici mamă. Fata era frumoasă la statură şi plăcută la vedere. " +
             "După moartea tatălui şi a mamei sale, Mardoheu o luase de " +
             "suflet.",
-          en: "Esther 2:5-7"
+          en: "Esther 2:5-7 Now in Shushan the palace there was a certain " +
+"Jew, whose name was Mordecai, the son of Jair, the son of Shimei, the " +
+"son of Kish, a Benjamite; Who had been carried away from Jerusalem with " +
+"the captivity which had been carried away with Jeconiah king of Judah, " +
+"whom Nebuchadnezzar the king of Babylon had carried away. And he brought " +
+"up Hadassah, that is, Esther, his uncle's daughter: for she had neither " +
+"father nor mother, and the maid was fair and beautiful; whom Mordecai, " +
+"when her father and mother were dead, took for his own daughter."
         }
       },
       {
