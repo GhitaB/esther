@@ -534,7 +534,20 @@ angular.module('galleryApp', [])
         img: '20.jpg',
         done: 25,
         text: {
-          ro: "Estera 6:1-5",
+          ro: "Estera 6:1-5 În noaptea aceea, împăratul n-a putut să " +
+            "doarmă şi a poruncit să-i aducă lângă el cartea aducerilor " +
+            "aminte, Cronicile. Le-au citit înaintea împăratului, " +
+            "şi s-a găsit scris ce descoperise Mardoheu cu privire la " +
+            "Bigtan şi Tereş, cei doi fameni ai împăratului, păzitorii " +
+            "pragului, care voiseră să întindă mâna asupra împăratului " +
+            "Ahaşveroş. Împăratul a zis: \"Ce cinste şi mărire i s-a făcut " +
+            "lui Mardoheu pentru aceasta?\" - \"Nu i s-a făcut nimic\", " +
+            "au răspuns cei ce slujeau împăratului. Atunci împăratul " +
+            "a zis: \"Cine este în curte?\" - Haman venise în curtea de " +
+            "afară a casei împăratului să ceară împăratului să spânzure " +
+            "pe Mardoheu pe lemnul pe care-l pregătise pentru el. - " +
+            "Slujitorii împăratului i-au răspuns: \"Haman este în curte.\" " +
+            "Şi împăratul a zis: \"Să intre.\"",
           en: "Esther 6:1-5"
         }
       },
