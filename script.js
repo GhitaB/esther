@@ -709,7 +709,14 @@ angular.module('galleryApp', [])
             "dorinţa, să mai vină împăratul cu Haman şi la ospăţul pe " +
             "care li-l voi pregăti, şi mâine voi da răspuns împăratului " +
             "după porunca lui.\"",
-          en: "Esther 5:6-8"
+          en: "Esther 5:6-8: And the king said unto Esther at the banquet " +
+"of wine, What is thy petition? and it shall be granted thee: and what is " +
+"thy request? even to the half of the kingdom it shall be performed." +
+"Then answered Esther, and said, My petition and my request is; " +
+"If I have found favour in the sight of the king, and if it please the " +
+"king to grant my petition, and to perform my request, let the king and " +
+"Haman come to the banquet that I shall prepare for them, and I will do to " +
+"morrow as the king hath said."
         }
       },
       {
