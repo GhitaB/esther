@@ -157,7 +157,33 @@ angular.module('galleryApp', [])
         img: '04.png',
         done: 30,
         text: {
-          ro: "Estera 1:13-20",
+          ro: "Estera 1:13-20: Atunci împăratul a vorbit cu înţelepţii " +
+            "care cunoşteau obiceiurile vremii. Căci aşa se puneau la cale " +
+            "treburile împăratului: înaintea tuturor celor ce cunoşteau " +
+            "legile şi dreptul. Avea lângă el pe Carşena, pe Şetar, pe " +
+            "Admata, pe Tarsis, pe Meres, pe Marsena, pe Memucan, şapte " +
+            "domnitori ai Persiei şi Mediei, care vedeau faţa împăratului " +
+            "și care aveau locul întâi în împărăţie. \"Ce trebuie\", a zis " +
+            "el, \"să se facă împărătesei Vasti, după lege, pentru că n-a " +
+            "împlinit ce i-a poruncit împăratul Ahaşveroş prin fameni?\" " +
+            "Memucan a răspuns înaintea împăratului şi domnitorilor: \"Nu " +
+            "numai faţă de împărat s-a purtat rău împărăteasa Vasti; ci şi " +
+            "faţă de toţi domnitorii şi de toate popoarele care sunt în " +
+            "toate ţinuturile împăratului Ahaşveroş. Căci fapta împărătesei " +
+            "va ajunge la cunoştinţa tuturor femeilor şi le va face să-şi " +
+            "nesocotească bărbaţii. Ele vor zice: \"Împăratul Ahaşveroş a " +
+            "poruncit să i se aducă înainte împărăteasa Vasti, şi ea nu " +
+            "s-a dus.\" Şi din ziua aceasta crăiesele Persiei şi Mediei, " +
+            "care vor afla de fapta împărătesei, vor vorbi tot aşa tuturor " +
+            "căpeteniilor împăratului: de aici va veni mult dispreţ şi " +
+            "mânie. Dacă împăratul găseşte cu cale, să se dea poruncă din " +
+            "partea lui şi să se scrie în legile perşilor şi mezilor, cu " +
+            "arătarea că nu trebuie să se calce o poruncă împărătească, " +
+            "după care Vasti să nu se mai arate înaintea împăratului " +
+            "Ahaşveroş. Iar împăratul să dea vrednicia de împărăteasă " +
+            "alteia mai bună decât ea. Porunca împăratului se va vesti " +
+            "astfel în toată împărăţia lui - căci este mare - şi toate " +
+            "femeile vor da cinste bărbaţilor lor, de la mare până la mic.\"",
           en: "Esther 1:13-20"
         }
       },
