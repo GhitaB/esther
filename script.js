@@ -118,7 +118,18 @@ angular.module('galleryApp', [])
         img: '02.png',
         done: 30,
         text: {
-          ro: "Estera 1:5-8",
+          ro: "Estera 1:5-8: După ce au trecut aceste zile, împăratul a " +
+            "dat întregului popor care se afla în capitala Susa, de la cel " +
+            "mai mare până la cel mai mic, un ospăţ care a ţinut şapte " +
+            "zile, în curtea grădinii casei împărăteşti. " +
+            "Covoare albe, verzi şi albastre erau legate cu funii de in " +
+            "subţire şi de purpură de nişte verigi de argint şi de nişte " +
+            "stâlpi de marmură. Paturi de aur şi de argint stăteau pe o " +
+            "podea de porfir, de marmură, de sidef şi de pietre negre. " +
+            "Iar de băut turnau în vase de aur de felurite soiuri. Era " +
+            "belşug de vin împărătesc, mulţumită dărniciei împăratului. " +
+            "Dar nimeni nu era silit să bea, căci împăratul poruncise " +
+            "tuturor oamenilor din casa lui să facă după voia fiecăruia.",
           en: "Esther 1:5-8"
         }
       },
