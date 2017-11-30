@@ -1185,7 +1185,22 @@ angular.module('galleryApp', [])
 "jalea lor, în zi de sărbătoare, şi să facă din aceste zile nişte zile de " +
 "ospăţ şi de bucurie, când să-şi trimită daruri de mâncare unii altora şi " +
 "să împartă daruri celor lipsiţi.",
-          en: "Esther 9:17-22"
+          en: "Esther 9:17-22 On the thirteenth day of the month Adar; " +
+"and on the fourteenth day of the same rested they, and made it a day of " +
+"feasting and gladness. But the Jews that were at Shushan assembled " +
+"together on the thirteenth day thereof, and on the fourteenth thereof; " +
+"and on the fifteenth day of the same they rested, and made it a day of " +
+"feasting and gladness. Therefore the Jews of the villages, that dwelt in " +
+"the unwalled towns, made the fourteenth day of the month Adar a day of " +
+"gladness and feasting, and a good day, and of sending portions one to " +
+"another. And Mordecai wrote these things, and sent letters unto all the " +
+"Jews that were in all the provinces of the king Ahasuerus, both nigh " +
+"and far, To stablish this among them, that they should keep the " +
+"fourteenth day of the month Adar, and the fifteenth day of the same, " +
+"yearly, As the days wherein the Jews rested from their enemies, and the " +
+"month which was turned unto them from sorrow to joy, and from mourning " +
+"into a good day: that they should make them days of feasting and joy, " +
+"and of sending portions one to another, and gifts to the poor."
         }
       },
       {
