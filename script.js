@@ -1113,7 +1113,13 @@ angular.module('galleryApp', [])
 "Porata, Adalia, Aridata, Parmaşta, Arizai, Aridai şi Vaiezata, cei zece " +
 "fii ai lui Haman, fiul lui Hamedata, vrăjmaşul iudeilor. Dar n-au pus " +
 "mâna pe averile lor.",
-          en: "Esther 9:5-10"
+          en: "Esther 9:5-10 Thus the Jews smote all their enemies with the " +
+"stroke of the sword, and slaughter, and destruction, and did what they " +
+"would unto those that hated them. And in Shushan the palace the Jews slew " +
+"and destroyed five hundred men. And Parshandatha, and Dalphon, and " +
+"Aspatha, And Poratha, and Adalia, and Aridatha, And Parmashta, and Arisai, " +
+"and Aridai, and Vajezatha, The ten sons of Haman the son of Hammedatha, " +
+"the enemy of the Jews, slew they; but on the spoil laid they not their hand."
         }
       },
       {
