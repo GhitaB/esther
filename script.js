@@ -506,7 +506,26 @@ angular.module('galleryApp', [])
         img: '19.jpg',
         done: 25,
         text: {
-          ro: "Estera 5:9-14",
+          ro: "Estera 5:9-14 Haman a ieşit în ziua aceea vesel şi cu inima " +
+            "mulţumită. Dar, când a văzut la poarta împăratului pe " +
+            "Mardoheu, care nu se scula, nici nu se mişca înaintea lui, " +
+            "s-a umplut de mânie împotriva lui Mardoheu. A ştiut totuşi să " +
+            "se stăpânească şi s-a dus acasă. Apoi a trimis să aducă pe " +
+            "prietenii săi şi pe nevasta sa, Zereş. Haman le-a vorbit " +
+            "despre strălucirea bogăţiilor lui, despre numărul fiilor săi, " +
+            "despre tot ce făcuse împăratul ca să-l ridice în vrednicie " +
+            "şi despre locul pe care i-l dăduse mai presus de căpeteniile " +
+            "şi slujitorii împăratului. Şi a adăugat: \"Eu sunt chiar " +
+            "singurul pe care împărăteasa Estera l-a primit împreună cu " +
+            "împăratul la ospăţul pe care l-a făcut, şi sunt poftit şi pe " +
+            "mâine la ea cu împăratul. Dar toate acestea n-au niciun preţ " +
+            "pentru mine câtă vreme voi vedea pe Mardoheu, iudeul acela, " +
+            "şezând la poarta împăratului.\" Nevasta sa, Zereş, şi toţi " +
+            "prietenii lui i-au zis: \"Să se pregătească o spânzurătoare " +
+            "înaltă de cincizeci de coţi, şi mâine dimineaţă cere " +
+            "împăratului ca Mardoheu să fie spânzurat. Apoi vei merge " +
+            "vesel la ospăţ cu împăratul.\" Părerea aceasta a plăcut lui " +
+            "Haman şi a pus să pregătească spânzurătoarea.",
           en: "Esther 5:9-14"
         }
       },
