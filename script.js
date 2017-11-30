@@ -1221,7 +1221,20 @@ angular.module('galleryApp', [])
 "pentru sămânţa lor şi pentru toţi cei ce se vor lipi de ei hotărârea şi " +
 "îndatorirea neschimbătoare ca să prăznuiască în fiecare an aceste două " +
 "zile, în felul rânduit şi la vremea hotărâtă.",
-          en: "Esther 9:23-27"
+          en: "Esther 9:23-27 And the Jews undertook to do as they had " +
+"begun, and as Mordecai had written unto them; Because Haman the son of " +
+"Hammedatha, the Agagite, the enemy of all the Jews, had devised against " +
+"the Jews to destroy them, and had cast Pur, that is, the lot, to " +
+"consume them, and to destroy them; But when Esther came before the king, " +
+"he commanded by letters that his wicked device, which he devised " +
+"against the Jews, should return upon his own head, and that he and his " +
+"sons should be hanged on the gallows. Wherefore they called these days " +
+"Purim after the name of Pur. Therefore for all the words of this letter, " +
+"and of that which they had seen concerning this matter, and which had " +
+"come unto them, The Jews ordained, and took upon them, and upon their " +
+"seed, and upon all such as joined themselves unto them, so as it should " +
+"not fail, that they would keep these two days according to their writing, " +
+"and according to their appointed time every year;"
         }
       },
       {
