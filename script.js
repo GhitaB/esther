@@ -966,7 +966,17 @@ angular.module('galleryApp', [])
 "sută douăzeci şi şapte de ţinuturi aşezate de la India la Etiopia, " +
 "fiecărui ţinut după scrierea lui, fiecărui popor după limba lui, şi " +
 "iudeilor după scrierea şi limba lor.",
-          en: "Esther 8:7-9"
+          en: "Esther 8:7-9 And the king arising from the banquet of wine " +
+"in his wrath went into the palace garden: and Haman stood up to make " +
+"request for his life to Esther the queen; for he saw that there was evil " +
+"determined against him by the king. Then the king returned out of the " +
+"palace garden into the place of the banquet of wine; and Haman was fallen " +
+"upon the bed whereon Esther was. Then said the king, Will he force the " +
+"queen also before me in the house? As the word went out of the king's " +
+"mouth, they covered Haman's face. And Harbonah, one of the chamberlains, " +
+"said before the king, Behold also, the gallows fifty cubits high, which " +
+"Haman had made for Mordecai, who had spoken good for the king, " +
+"standeth in the house of Haman. Then the king said, Hang him thereon."
         }
       },
       {
