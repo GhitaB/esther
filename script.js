@@ -138,7 +138,17 @@ angular.module('galleryApp', [])
         img: '03.png',
         done: 30,
         text: {
-          ro: "Estera 1:9-12",
+          ro: "Estera 1:9-12: Împărăteasa Vasti a dat şi ea un ospăţ " +
+            "femeilor, în casa împărătească a împăratului Ahaşveroş. " +
+            "A şaptea zi, pe când inima împăratului era veselă de vin, a " +
+            "poruncit lui Mehuman, Bizta, Harbona, Bigta, Abagta, Zetar şi " +
+            "Carcas, cei şapte fameni care slujeau înaintea împăratului " +
+            "Ahaşveroş, să aducă în faţa lui pe împărăteasa Vasti, cu " +
+            "cununa împărătească, pentru ca să arate frumuseţea ei " +
+            "popoarelor şi mai marilor săi, căci era frumoasă la chip. " +
+            "Dar împărăteasa Vasti n-a vrut să vină când a primit prin " +
+            "fameni porunca împăratului. Şi împăratul s-a supărat foarte " +
+            "tare, s-a aprins de mânie.",
           en: "Esther 1:9-12"
         }
       },
