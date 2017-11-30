@@ -993,17 +993,20 @@ angular.module('galleryApp', [])
 "sută douăzeci şi şapte de ţinuturi aşezate de la India la Etiopia, " +
 "fiecărui ţinut după scrierea lui, fiecărui popor după limba lui, şi " +
 "iudeilor după scrierea şi limba lor.",
-          en: "Esther 8:7-9 And the king arising from the banquet of wine " +
-"in his wrath went into the palace garden: and Haman stood up to make " +
-"request for his life to Esther the queen; for he saw that there was evil " +
-"determined against him by the king. Then the king returned out of the " +
-"palace garden into the place of the banquet of wine; and Haman was fallen " +
-"upon the bed whereon Esther was. Then said the king, Will he force the " +
-"queen also before me in the house? As the word went out of the king's " +
-"mouth, they covered Haman's face. And Harbonah, one of the chamberlains, " +
-"said before the king, Behold also, the gallows fifty cubits high, which " +
-"Haman had made for Mordecai, who had spoken good for the king, " +
-"standeth in the house of Haman. Then the king said, Hang him thereon."
+          en: "Esther 8:7-9 Then the king Ahasuerus said unto Esther the " +
+"queen and to Mordecai the Jew, Behold, I have given Esther the house of " +
+"Haman, and him they have hanged upon the gallows, because he laid his " +
+"hand upon the Jews. Write ye also for the Jews, as it liketh you, in " +
+"the king's name, and seal it with the king's ring: for the writing which " +
+"is written in the king's name, and sealed with the king's ring, may no " +
+"man reverse. Then were the king's scribes called at that time in the " +
+"third month, that is, the month Sivan, on the three and twentieth day " +
+"thereof; and it was written according to all that Mordecai commanded " +
+"unto the Jews, and to the lieutenants, and the deputies and rulers of " +
+"the provinces which are from India unto Ethiopia, an hundred twenty and " +
+"seven provinces, unto every province according to the writing thereof, " +
+"and unto every people after their language, and to the Jews according " +
+"to their writing, and according to their language."
         }
       },
       {
