@@ -1256,7 +1256,18 @@ angular.module('galleryApp', [])
 "şi pentru sămânţa lor, cu prilejul postului lor şi ţipetelor lor. " +
 "Porunca Esterei a întărit aşezarea acestei sărbători Purim, şi lucrul " +
 "acesta a fost scris în carte.",
-          en: "Esther 9:28-32"
+          en: "Esther 9:28-32 And that these days should be remembered and " +
+"kept throughout every generation, every family, every province, and every " +
+"city; and that these days of Purim should not fail from among the Jews, " +
+"nor the memorial of them perish from their seed. Then Esther the queen, " +
+"the daughter of Abihail, and Mordecai the Jew, wrote with all authority, " +
+"to confirm this second letter of Purim. And he sent the letters unto all " +
+"the Jews, to the hundred twenty and seven provinces of the kingdom of " +
+"Ahasuerus, with words of peace and truth, To confirm these days of Purim " +
+"in their times appointed, according as Mordecai the Jew and Esther " +
+"the queen had enjoined them, and as they had decreed for themselves and " +
+"for their seed, the matters of the fastings and their cry. And the decree " +
+"of Esther confirmed these matters of Purim; and it was written in the book."
         }
       },
       {
