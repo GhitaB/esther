@@ -637,7 +637,26 @@ angular.module('galleryApp', [])
             "Şi eu voi posti odată cu slujnicele mele; apoi voi intra la " +
             "împărat, în ciuda legii; şi, dacă va fi să pier, voi pieri. \" " +
             "Mardoheu a plecat şi a făcut tot ce-i poruncise Estera.",
-          en: "Esther 4:9-17"
+          en: "Esther 4:9-17 And Hatach came and told Esther the words of " +
+"Mordecai. Again Esther spake unto Hatach, and gave him commandment unto " +
+"Mordecai; All the king's servants, and the people of the king's " +
+"provinces, do know, that whosoever, whether man or woman, shall come " +
+"unto the king into the inner court, who is not called, there is one law " +
+"of his to put him to death, except such to whom the king shall hold out " +
+"the golden sceptre, that he may live: but I have not been called to come " +
+"in unto the king these thirty days. And they told to Mordecai Esther's " +
+"words. Then Mordecai commanded to answer Esther, Think not with thyself " +
+"that thou shalt escape in the king's house, more than all the Jews." +
+"For if thou altogether holdest thy peace at this time, then shall there " +
+"enlargement and deliverance arise to the Jews from another place; but " +
+"thou and thy father's house shall be destroyed: and who knoweth whether " +
+"thou art come to the kingdom for such a time as this? " +
+"Then Esther bade them return Mordecai this answer, Go, gather together " +
+"all the Jews that are present in Shushan, and fast ye for me, and " +
+"neither eat nor drink three days, night or day: I also and my maidens " +
+"will fast likewise; and so will I go in unto the king, which is not " +
+"according to the law: and if I perish, I perish. So Mordecai went his " +
+"way, and did according to all that Esther had commanded him."
         }
       },
       {
