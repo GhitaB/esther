@@ -250,7 +250,12 @@ angular.module('galleryApp', [])
             "lui, fiecărui ţinut după scrierea lui şi fiecărui popor după " +
             "limba lui; ele spuneau că orice bărbat trebuie să fie stăpân " +
             "în casa lui şi că va vorbi limba poporului său.",
-          en: "Esther 1:21-22"
+          en: "Esther 1:21-22 And the saying pleased the king and the " +
+"princes; and the king did according to the word of Memucan: For he sent " +
+"letters into all the king's provinces, into every province according to " +
+"the writing thereof, and to every people after their language, that every " +
+"man should bear rule in his own house, and that it should be published " +
+"according to the language of every people."
         }
       },
       {
