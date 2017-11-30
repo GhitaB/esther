@@ -437,7 +437,27 @@ angular.module('galleryApp', [])
         img: '16.jpg',
         done: 25,
         text: {
-          ro: "Estera 4:9-17",
+          ro: "Estera 4:9-17 Hatac a venit şi a spus Esterei cuvintele " +
+            "lui Mardoheu. Estera a însărcinat pe Hatac să se ducă să spună " +
+            "lui Mardoheu: \"Toţi slujitorii împăratului şi poporul din " +
+            "ţinuturile împăratului ştiu că este o lege care pedepseşte cu " +
+            "moartea pe oricine, fie bărbat, fie femeie, care intră la " +
+            "împărat, în curtea dinăuntru, fără să fie chemat. Numai acela " +
+            "scapă cu viaţă căruia îi întinde împăratul toiagul lui " +
+            "împărătesc de aur. Şi eu n-am fost chemată la împărat de " +
+            "treizeci de zile. \" Când s-au spus cuvintele Esterei lui " +
+            "Mardoheu, Mardoheu a trimis următorul răspuns Esterei: \"Să " +
+            "nu-ţi închipui că numai tu vei scăpa dintre toţi iudeii, " +
+            "pentru că eşti în casa împăratului. Căci, dacă vei tăcea acum, " +
+            "ajutorul şi izbăvirea vor veni din altă parte pentru iudei, " +
+            "şi tu şi casa tatălui tău veţi pieri. Şi cine ştie dacă nu " +
+            "pentru o vreme ca aceasta ai ajuns la împărăţie?\" Estera a " +
+            "trimis să spună lui Mardoheu: \"Du-te, strânge pe toţi " +
+            "iudeii care se află în Susa şi postiţi pentru mine, fără să " +
+            "mâncaţi, nici să beţi, trei zile, nici noaptea, nici ziua. " +
+            "Şi eu voi posti odată cu slujnicele mele; apoi voi intra la " +
+            "împărat, în ciuda legii; şi, dacă va fi să pier, voi pieri. \" " +
+            "Mardoheu a plecat şi a făcut tot ce-i poruncise Estera.",
           en: "Esther 4:9-17"
         }
       },
