@@ -243,7 +243,19 @@ angular.module('galleryApp', [])
         img: '08.png',
         done: 30,
         text: {
-          ro: "Estera 2:8-11",
+          ro: "Estera 2:8-11 Când s-a auzit porunca împăratului şi " +
+            "hotărârea lui, au fost strânse un mare număr de fete în " +
+            "capitala Susa, sub privegherea lui Hegai. Odată cu ele a " +
+            "fost luată şi Estera şi adusă în casa împăratului, sub " +
+            "privegherea lui Hegai, păzitorul femeilor. Fata i-a plăcut şi " +
+            "a căpătat trecere înaintea lui. El s-a grăbit să-i dea cele " +
+            "de trebuinţă pentru găteală şi hrană, i-a dat şapte slujnice " +
+            "alese din casa împăratului şi a pus-o împreună cu slujnicele " +
+            "ei în cea mai bună încăpere din casa femeilor. Estera nu şi-a " +
+            "făcut cunoscut nici poporul, nici naşterea, căci Mardoheu o " +
+            "oprise să vorbească despre aceste lucruri. Şi în fiecare zi " +
+            "Mardoheu se ducea şi venea înaintea curţii casei femeilor ca " +
+            "să afle cum îi merge Esterei şi ce se face cu ea.",
           en: "Esther 2:8-11"
         }
       },
@@ -252,7 +264,18 @@ angular.module('galleryApp', [])
         img: '09.png',
         done: 30,
         text: {
-          ro: "Estera 2:12-14",
+          ro: "Estera 2:12-14 Fiecare fată se ducea la rândul ei la " +
+            "împăratul Ahaşveroş, după ce timp de douăsprezece luni " +
+            "împlinea ce era poruncit femeilor. În timpul acesta, aveau " +
+            "grijă să se gătească, ungându-se şase luni cu untdelemn de " +
+            "mirt, şi şase luni, cu miresme de mirozne femeieşti. " +
+            "Aşa se ducea fiecare fată la împărat. Şi, când trecea din " +
+            "casa femeilor în casa împăratului, o lăsau să ia cu ea tot ce " +
+            "voia. Se ducea seara; şi a doua zi dimineaţa trecea în a doua " +
+            "casă a femeilor, sub privegherea lui Şaaşgaz, famenul " +
+            "împăratului şi păzitorul ţiitoarelor împăratului. Nu se mai " +
+            "întorcea la împărat, decât când ar fi dorit împăratul şi " +
+            "ar fi chemat-o pe nume.",
           en: "Esther 2:12-14"
         }
       },
