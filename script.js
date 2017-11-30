@@ -578,7 +578,21 @@ angular.module('galleryApp', [])
         img: '22.jpg',
         done: 25,
         text: {
-          ro: "Estera 6:10-14",
+          ro: "Estera 6:10-14 Împăratul a zis lui Haman: \"Ia îndată haina " +
+            "şi calul, cum ai zis, şi fă aşa iudeului Mardoheu, care şade " +
+            "la poarta împăratului. Nu lăsa nefăcut nimic din ce ai spus.\" " +
+            "Şi Haman a luat haina şi calul, a îmbrăcat pe Mardoheu, l-a " +
+            "plimbat călare pe cal prin locul deschis al cetăţii şi a " +
+            "strigat înaintea lui: \"Aşa se face omului pe care vrea " +
+            "împăratul să-l cinstească!\" Mardoheu s-a întors la poarta " +
+            "împăratului, şi Haman s-a dus în grabă acasă, mâhnit şi cu " +
+            "capul acoperit. Haman a istorisit nevestei sale, Zereş, şi " +
+            "tuturor prietenilor săi tot ce i se întâmplase. Şi înţelepţii " +
+            "lui şi nevasta sa, Zereş, i-au zis: \"Dacă Mardoheu, înaintea " +
+            "căruia ai început să cazi, este din neamul iudeilor, nu vei " +
+            "putea face nimic împotriva lui, ci vei cădea înaintea lui.\" " +
+            "Pe când îi vorbeau ei încă, au venit famenii împăratului şi " +
+            "au luat îndată pe Haman la ospăţul pe care-l pregătise Estera.",
           en: "Esther 6:10-14"
         }
       },
