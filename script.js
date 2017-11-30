@@ -406,7 +406,29 @@ angular.module('galleryApp', [])
         img: '15.jpg',
         done: 25,
         text: {
-          ro: "Estera 4:1-8",
+          ro: "Estera 4:1-8 Mardoheu, aflând tot ce se petrecea, şi-a " +
+            "sfâşiat hainele, s-a îmbrăcat cu un sac şi s-a presărat cu " +
+            "cenuşă. Apoi s-a dus în mijlocul cetăţii, scoţând cu putere " +
+            "strigăte amare, şi a mers până la poarta împăratului, a cărei " +
+            "intrare era oprită oricui era îmbrăcat cu un sac. " +
+            "În fiecare ţinut unde ajungea porunca împăratului şi " +
+            "hotărârea lui a fost o mare jale printre iudei; posteau, " +
+            "plângeau şi se boceau, şi mulţi se culcau în sac şi cenuşă. " +
+            "Slujnicele Esterei şi famenii ei au venit şi i-au spus lucrul " +
+            "acesta. Şi împărăteasa a rămas îngrozită. A trimis haine " +
+            "lui Mardoheu ca să-l îmbrace şi să ia sacul de pe el, dar el " +
+            "nu le-a primit. Atunci Estera a chemat pe Hatac, unul din " +
+            "famenii pe care-i pusese împăratul în slujba ei, şi l-a " +
+            "însărcinat să se ducă să întrebe pe Mardoheu ce înseamnă " +
+            "lucrul acesta şi de unde vine. Hatac s-a dus la Mardoheu în " +
+            "locul deschis al cetăţii, înaintea porţii împăratului. " +
+            "Şi Mardoheu i-a istorisit tot ce i se întâmplase şi i-a spus " +
+            "suma de argint pe care făgăduise Haman că o va da " +
+            "vistieriei împăratului în schimbul măcelăririi iudeilor. " +
+            "I-a dat şi cuprinsul poruncii vestite în Susa în vederea " +
+            "nimicirii lor, ca s-o arate Esterei şi să-i spună totul. Şi " +
+            "a poruncit ca Estera să se ducă la împărat să-l roage şi să " +
+            "stăruie de el pentru poporul său.",
           en: "Esther 4:1-8"
         }
       },
