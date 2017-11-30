@@ -1027,7 +1027,18 @@ angular.module('galleryApp', [])
 "care trebuia vestită în fiecare ţinut şi dădeau de ştire tuturor " +
 "popoarelor că iudeii stau gata pentru ziua aceea ca să se răzbune " +
 "pe vrăjmaşii lor.",
-          en: "Esther 8:10-13"
+          en: "Esther 8:10-13 And he wrote in the king Ahasuerus' name, " +
+"and sealed it with the king's ring, and sent letters by posts on " +
+"horseback, and riders on mules, camels, and young dromedaries: " +
+"Wherein the king granted the Jews which were in every city to gather " +
+"themselves together, and to stand for their life, to destroy, to slay, " +
+"and to cause to perish, all the power of the people and province that " +
+"would assault them, both little ones and women, and to take the spoil " +
+"of them for a prey, Upon one day in all the provinces of king Ahasuerus, " +
+"namely, upon the thirteenth day of the twelfth month, which is the " +
+"month Adar. The copy of the writing for a commandment to be given in " +
+"every province was published unto all people, and that the Jews should " +
+"be ready against that day to avenge themselves on their enemies."
         }
       },
       {
