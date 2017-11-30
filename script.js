@@ -503,7 +503,20 @@ angular.module('galleryApp', [])
             "fiul lui Hamedata, agaghitul, vrăjmaşul iudeilor. Şi împăratul " +
             "a zis lui Haman: \"Îţi dăruiesc şi argintul şi pe poporul " +
             "acesta; fă cu el ce vei voi.",
-          en: "Esther 3:7-11"
+          en: "Esther 3:7-11: In the first month, that is, the month Nisan, " +
+"in the twelfth year of king Ahasuerus, they cast Pur, that is, the lot, " +
+"before Haman from day to day, and from month to month, to the twelfth " +
+"month, that is, the month Adar. And Haman said unto king Ahasuerus, " +
+"There is a certain people scattered abroad and dispersed among the people " +
+"in all the provinces of thy kingdom; and their laws are diverse from all " +
+"people; neither keep they the king's laws: therefore it is not for the " +
+"king's profit to suffer them. If it please the king, let it be written " +
+"that they may be destroyed: and I will pay ten thousand talents of " +
+"silver to the hands of those that have the charge of the business, to " +
+"bring it into the king's treasuries. And the king took his ring from his " +
+"hand, and gave it unto Haman the son of Hammedatha the Agagite, " +
+"the Jews' enemy. And the king said unto Haman, The silver is given to " +
+"thee, the people also, to do with them as it seemeth good to thee."
         }
       },
       {
