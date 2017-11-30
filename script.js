@@ -489,7 +489,15 @@ angular.module('galleryApp', [])
         img: '18.jpg',
         done: 25,
         text: {
-          ro: "Estera 5:6-8",
+          ro: "Estera 5:6-8 6. Şi pe când beau vin, împăratul a zis " +
+            "Esterei: \"Care este cererea ta? Ea îţi va fi împlinită. Ce " +
+            "doreşti? Chiar dacă ai cere jumătate din împărăţie, o vei " +
+            "căpăta.\" Estera a răspuns: \"Iată ce cer şi ce doresc. " +
+            "Dacă am căpătat trecere înaintea împăratului şi dacă găseşte " +
+            "cu cale împăratul să-mi îndeplinească cererea şi să-mi facă " +
+            "dorinţa, să mai vină împăratul cu Haman şi la ospăţul pe " +
+            "care li-l voi pregăti, şi mâine voi da răspuns împăratului " +
+            "după porunca lui.\"",
           en: "Esther 5:6-8"
         }
       },
