@@ -380,7 +380,24 @@ angular.module('galleryApp', [])
         img: '14.png',
         done: 30,
         text: {
-          ro: "Estera 3:12-15",
+          ro: "Estera 3:12-15 12. Logofeţii împăratului au fost chemaţi " +
+            "în a treisprezecea zi a lunii întâi şi au scris în totul cum a " +
+            "poruncit Haman mai marilor oştirii, dregătorilor fiecărui " +
+            "ţinut şi căpeteniilor fiecărui popor, fiecărui ţinut după " +
+            "scrierea lui şi fiecărui popor după limba lui. Au scris în " +
+            "numele împăratului Ahaşveroş şi au pecetluit scrisorile cu " +
+            "inelul împăratului. Scrisorile au fost trimise prin " +
+            "alergători în toate ţinuturile împăratului, ca să " +
+            "nimicească, să omoare şi să piardă pe toţi iudeii, tineri şi " +
+            "bătrâni, prunci şi femei, şi anume într-o singură zi, în " +
+            "ziua a treisprezecea a lunii a douăsprezecea, adică luna Adar, " +
+            "şi să li se prade averile. Aceste scrisori cuprindeau " +
+            "porunca împăratului, care trebuia vestită în fiecare ţinut, " +
+            "şi îndemnau pe toate popoarele să fie gata pentru ziua aceea. " +
+            "Alergătorii au plecat în grabă mare, după porunca " +
+            "împăratului. Porunca a fost vestită şi în capitala Susa. Şi " +
+            "pe când împăratul şi Haman stăteau şi beau, cetatea Susa " +
+            "era îngrozită.",
           en: "Esther 3:12-15"
         }
       },
