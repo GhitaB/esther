@@ -397,7 +397,23 @@ angular.module('galleryApp', [])
             "spusese nici naşterea, nici poporul, căci o oprise Mardoheu. " +
             "Şi ea urma acum poruncile lui Mardoheu cu tot atâta " +
             "scumpătate ca atunci când o creştea el.",
-          en: "Esther 2:15-20"
+          en: "Esther 2:15-20 Now when the turn of Esther, the daughter " +
+"of Abihail the uncle of Mordecai, who had taken her for his daughter, was " +
+"come to go in unto the king, she required nothing but what Hegai the " +
+"king's chamberlain, the keeper of the women, appointed. And Esther " +
+"obtained favour in the sight of all them that looked upon her. " +
+"So Esther was taken unto king Ahasuerus into his house royal in the tenth " +
+"month, which is the month Tebeth, in the seventh year of his reign." +
+"And the king loved Esther above all the women, and she obtained grace " +
+"and favour in his sight more than all the virgins; so that he set the " +
+"royal crown upon her head, and made her queen instead of Vashti." +
+"Then the king made a great feast unto all his princes and his servants, " +
+"even Esther's feast; and he made a release to the provinces, and gave " +
+"gifts, according to the state of the king. And when the virgins were " +
+"gathered together the second time, then Mordecai sat in the king's gate." +
+"Esther had not yet shewed her kindred nor her people; as Mordecai had " +
+"charged her: for Esther did the commandment of Mordecai, like as when she " +
+"was brought up with him."
         }
       },
       {
