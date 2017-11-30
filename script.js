@@ -192,7 +192,7 @@ angular.module('galleryApp', [])
         img: '05.png',
         done: 30,
         text: {
-          ro: "Estera 1:21-22 21. Părerea aceasta a fost primită de împărat " +
+          ro: "Estera 1:21-22 Părerea aceasta a fost primită de împărat " +
             "şi de domnitori, şi împăratul a lucrat după cuvântul lui " +
             "Memucan. A trimis scrisori tuturor ţinuturilor din împărăţia " +
             "lui, fiecărui ţinut după scrierea lui şi fiecărui popor după " +
@@ -380,7 +380,7 @@ angular.module('galleryApp', [])
         img: '14.png',
         done: 30,
         text: {
-          ro: "Estera 3:12-15 12. Logofeţii împăratului au fost chemaţi " +
+          ro: "Estera 3:12-15 Logofeţii împăratului au fost chemaţi " +
             "în a treisprezecea zi a lunii întâi şi au scris în totul cum a " +
             "poruncit Haman mai marilor oştirii, dregătorilor fiecărui " +
             "ţinut şi căpeteniilor fiecărui popor, fiecărui ţinut după " +
@@ -489,7 +489,7 @@ angular.module('galleryApp', [])
         img: '18.jpg',
         done: 25,
         text: {
-          ro: "Estera 5:6-8 6. Şi pe când beau vin, împăratul a zis " +
+          ro: "Estera 5:6-8 Şi pe când beau vin, împăratul a zis " +
             "Esterei: \"Care este cererea ta? Ea îţi va fi împlinită. Ce " +
             "doreşti? Chiar dacă ai cere jumătate din împărăţie, o vei " +
             "căpăta.\" Estera a răspuns: \"Iată ce cer şi ce doresc. " +
