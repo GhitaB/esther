@@ -1283,7 +1283,14 @@ angular.module('galleryApp', [])
 "El era cu vază între Iudei şi iubit de mulţimea fraţilor săi, căci a " +
 "căutat binele poporului său şi a vorbit pentru fericirea întregului " +
 "său neam.",
-          en: "Esther 10:1-3"
+          en: "Esther 10:1-3 And the king Ahasuerus laid a tribute upon " +
+"the land, and upon the isles of the sea. And all the acts of his power " +
+"and of his might, and the declaration of the greatness of Mordecai, " +
+"whereunto the king advanced him, are they not written in the book of the " +
+"chronicles of the kings of Media and Persia? For Mordecai the Jew was " +
+"next unto king Ahasuerus, and great among the Jews, and accepted of the " +
+"multitude of his brethren, seeking the wealth of his people, and speaking " +
+"peace to all his seed."
         }
       }
     ];
