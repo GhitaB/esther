@@ -542,7 +542,22 @@ angular.module('galleryApp', [])
             "împăratului. Porunca a fost vestită şi în capitala Susa. Şi " +
             "pe când împăratul şi Haman stăteau şi beau, cetatea Susa " +
             "era îngrozită.",
-          en: "Esther 3:12-15"
+          en: "Esther 3:12-15 Then were the king's scribes called on the " +
+"thirteenth day of the first month, and there was written according to all " +
+"that Haman had commanded unto the king's lieutenants, and to the " +
+"governors that were over every province, and to the rulers of every people " +
+"of every province according to the writing thereof, and to every people " +
+"after their language; in the name of king Ahasuerus was it written, " +
+"and sealed with the king's ring. And the letters were sent by posts into " +
+"all the king's provinces, to destroy, to kill, and to cause to perish, " +
+"all Jews, both young and old, little children and women, in one day, even " +
+"upon the thirteenth day of the twelfth month, which is the month Adar, " +
+"and to take the spoil of them for a prey. The copy of the writing for a " +
+"commandment to be given in every province was published unto all people, " +
+"that they should be ready against that day. The posts went out, being " +
+"hastened by the king's commandment, and the decree was given in Shushan " +
+"the palace. And the king and Haman sat down to drink; but the city " +
+"Shushan was perplexed."
         }
       },
       {
