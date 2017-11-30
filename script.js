@@ -782,7 +782,17 @@ angular.module('galleryApp', [])
             "pe Mardoheu pe lemnul pe care-l pregătise pentru el. - " +
             "Slujitorii împăratului i-au răspuns: \"Haman este în curte.\" " +
             "Şi împăratul a zis: \"Să intre.\"",
-          en: "Esther 6:1-5"
+          en: "Esther 6:1-5 On that night could not the king sleep, and he " +
+"commanded to bring the book of records of the chronicles; and they were " +
+"read before the king. And it was found written, that Mordecai had told " +
+"of Bigthana and Teresh, two of the king's chamberlains, the keepers of " +
+"the door, who sought to lay hand on the king Ahasuerus. And the king " +
+"said, What honour and dignity hath been done to Mordecai for this? Then " +
+"said the king's servants that ministered unto him, There is nothing done " +
+"for him. And the king said, Who is in the court? Now Haman was come " +
+"into the outward court of the king's house, to speak unto the king to " +
+"hang Mordecai on the gallows that he had prepared for him. " +
+"And the king's servants said unto him, Behold, Haman "
         }
       },
       {
