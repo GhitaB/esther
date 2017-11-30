@@ -744,7 +744,23 @@ angular.module('galleryApp', [])
             "împăratului ca Mardoheu să fie spânzurat. Apoi vei merge " +
             "vesel la ospăţ cu împăratul.\" Părerea aceasta a plăcut lui " +
             "Haman şi a pus să pregătească spânzurătoarea.",
-          en: "Esther 5:9-14"
+          en: "Esther 5:9-14: Then went Haman forth that day joyful and " +
+"with a glad heart: but when Haman saw Mordecai in the king's gate, that " +
+"he stood not up, nor moved for him, he was full of indignation against " +
+"Mordecai. Nevertheless Haman refrained himself: and when he came home, " +
+"he sent and called for his friends, and Zeresh his wife. " +
+"And Haman told them of the glory of his riches, and the multitude of his " +
+"children, and all the things wherein the king had promoted him, and how " +
+"he had advanced him above the princes and servants of the king. " +
+"Haman said moreover, Yea, Esther the queen did let no man come in with " +
+"the king unto the banquet that she had prepared but myself; and to " +
+"morrow am I invited unto her also with the king. " +
+"Yet all this availeth me nothing, so long as I see Mordecai the Jew " +
+"sitting at the king's gate. Then said Zeresh his wife and all his friends " +
+"unto him, Let a gallows be made of fifty cubits high, and to morrow " +
+"speak thou unto the king that Mordecai may be hanged thereon: then go " +
+"thou in merrily with the king unto the banquet. And the thing pleased " +
+"Haman; and he caused the gallows to be made."
         }
       },
       {
