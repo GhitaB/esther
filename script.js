@@ -957,20 +957,22 @@ angular.module('galleryApp', [])
 "sunt în toate ţinuturile împăratului. Căci cum aş putea eu să văd " +
 "nenorocirea care ar atinge pe poporul meu şi cum aş putea să văd " +
 "nimicirea neamului meu?\"",
-          en: "Esther 8:1-6 So the king and Haman came to banquet with " +
-"Esther the queen. And the king said again unto Esther on the second day " +
-"at the banquet of wine, What is thy petition, queen Esther? and it shall " +
-"be granted thee: and what is thy request? and it shall be performed, " +
-"even to the half of the kingdom. Then Esther the queen answered and " +
-"said, If I have found favour in thy sight, O king, and if it please " +
-"the king, let my life be given me at my petition, and my people at my " +
-"request: For we are sold, I and my people, to be destroyed, to be slain, " +
-"and to perish. But if we had been sold for bondmen and bondwomen, I had " +
-"held my tongue, although the enemy could not countervail the king's " +
-"damage. Then the king Ahasuerus answered and said unto Esther the queen, " +
-"Who is he, and where is he, that durst presume in his heart to do so? " +
-"And Esther said, The adversary and enemy is this wicked Haman. Then " +
-"Haman was afraid before the king and the queen."
+          en: "Esther 8:1-6 On that day did the king Ahasuerus give the " +
+"house of Haman the Jews' enemy unto Esther the queen. And Mordecai came " +
+"before the king; for Esther had told what he was unto her. " +
+"And the king took off his ring, which he had taken from Haman, and gave " +
+"it unto Mordecai. And Esther set Mordecai over the house of Haman. " +
+"And Esther spake yet again before the king, and fell down at his feet, " +
+"and besought him with tears to put away the mischief of Haman the Agagite, " +
+"and his device that he had devised against the Jews. " +
+"Then the king held out the golden sceptre toward Esther. So Esther " +
+"arose, and stood before the king, And said, If it please the king, and " +
+"if I have found favour in his sight, and the thing seem right before " +
+"the king, and I be pleasing in his eyes, let it be written to reverse " +
+"the letters devised by Haman the son of Hammedatha the Agagite, which " +
+"he wrote to destroy the Jews which are in all the king's provinces:" +
+"For how can I endure to see the evil that shall come unto my people? or " +
+"how can I endure to see the destruction of my kindred?"
         }
       },
       {
