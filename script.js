@@ -329,7 +329,18 @@ angular.module('galleryApp', [])
             "oprise să vorbească despre aceste lucruri. Şi în fiecare zi " +
             "Mardoheu se ducea şi venea înaintea curţii casei femeilor ca " +
             "să afle cum îi merge Esterei şi ce se face cu ea.",
-          en: "Esther 2:8-11"
+          en: "Esther 2:8-11 So it came to pass, when the king's " +
+"commandment and his decree was heard, and when many maidens were gathered " +
+"together unto Shushan the palace, to the custody of Hegai, that Esther " +
+"was brought also unto the king's house, to the custody of Hegai, keeper " +
+"of the women. And the maiden pleased him, and she obtained kindness of " +
+"him; and he speedily gave her her things for purification, with such " +
+"things as belonged to her, and seven maidens, which were meet to be given " +
+"her, out of the king's house: and he preferred her and her maids unto the " +
+"best place of the house of the women. Esther had not shewed her people " +
+"nor her kindred: for Mordecai had charged her that she should not shew it. " +
+"And Mordecai walked every day before the court of the women's house, to " +
+"know how Esther did, and what should become of her."
         }
       },
       {
