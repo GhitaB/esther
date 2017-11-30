@@ -192,7 +192,12 @@ angular.module('galleryApp', [])
         img: '05.png',
         done: 30,
         text: {
-          ro: "Estera 1:21-22",
+          ro: "Estera 1:21-22 21. Părerea aceasta a fost primită de împărat " +
+            "şi de domnitori, şi împăratul a lucrat după cuvântul lui " +
+            "Memucan. A trimis scrisori tuturor ţinuturilor din împărăţia " +
+            "lui, fiecărui ţinut după scrierea lui şi fiecărui popor după " +
+            "limba lui; ele spuneau că orice bărbat trebuie să fie stăpân " +
+            "în casa lui şi că va vorbi limba poporului său.",
           en: "Esther 1:21-22"
         }
       },
