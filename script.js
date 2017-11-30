@@ -1144,7 +1144,23 @@ angular.module('galleryApp', [])
 "Au căpătat astfel odihnă, scăpând de vrăjmaşii lor, şi au ucis " +
 "şaptezeci şi cinci de mii din cei ce le erau vrăjmaşi. Dar n-au pus " +
 "mâna pe averile lor.",
-          en: "Esther 9:11-16"
+          en: "Esther 9:11-16 On that day the number of those that were " +
+"slain in Shushan the palace was brought before the king. And the king " +
+"said unto Esther the queen, The Jews have slain and destroyed five " +
+"hundred men in Shushan the palace, and the ten sons of Haman; what have " +
+"they done in the rest of the king's provinces? now what is thy petition? " +
+"and it shall be granted thee: or what is thy request further? and it shall " +
+"be done. Then said Esther, If it please the king, let it be granted to " +
+"the Jews which are in Shushan to do to morrow also according unto this " +
+"day's decree, and let Haman's ten sons be hanged upon the gallows." +
+"And the king commanded it so to be done: and the decree was given at " +
+"Shushan; and they hanged Haman's ten sons. For the Jews that were in " +
+"Shushan gathered themselves together on the fourteenth day also of the " +
+"month Adar, and slew three hundred men at Shushan; but on the prey they " +
+"laid not their hand. But the other Jews that were in the king's provinces " +
+"gathered themselves together, and stood for their lives, and had rest " +
+"from their enemies, and slew of their foes seventy and five thousand, but " +
+"they laid not their hands on the prey,"
         }
       },
       {
