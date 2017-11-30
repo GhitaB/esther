@@ -601,7 +601,20 @@ angular.module('galleryApp', [])
         img: '23.jpg',
         done: 25,
         text: {
-          ro: "Estera 7:1-6",
+          ro: "Estera 7:1-6 Împăratul şi Haman s-au dus la ospăţ la " +
+"împărăteasa Estera. În această a doua zi, împăratul a zis iarăşi Esterei " +
+"pe când beau vin: \"Care este cererea ta, împărăteasă Estero? Ea îţi va " +
+"fi împlinită. Ce doreşti? Chiar dacă ai cere jumătate din împărăţie, o vei " +
+"căpăta.\" Împărăteasa Estera a răspuns: \"Dacă am căpătat trecere " +
+"înaintea ta, împărate, şi dacă găseşte cu cale împăratul, dă-mi viaţa: " +
+"iată cererea mea; şi scapă pe poporul meu: iată dorinţa mea! Căci eu şi " +
+"poporul meu suntem vânduţi să fim nimiciţi, înjunghiaţi şi prăpădiţi. " +
+"Măcar dacă am fi vânduţi să fim robi şi roabe, aş tăcea, dar vrăjmaşul " +
+"n-ar putea să înlocuiască pierderea făcută împăratului.\" Împăratul " +
+"Ahaşveroş a luat cuvântul şi a zis împărătesei Estera: \"Cine şi unde " +
+"este acela care are de gând să facă aşa?\" Estera a răspuns: \"Apăsătorul, " +
+"vrăjmaşul este Haman, răul acesta!\" Haman a rămas îngrozit în faţa " +
+"împăratului şi a împărătesei.",
           en: "Esther 7:1-6"
         }
       },
@@ -610,7 +623,20 @@ angular.module('galleryApp', [])
         img: '24.jpg',
         done: 25,
         text: {
-          ro: "Estera 7:7-10",
+          ro: "Estera 7:7-10 Şi împăratul, în mânia lui, s-a sculat şi " +
+"a părăsit ospăţul, şi s-a dus în grădina casei împărăteşti. Haman a " +
+"rămas să-şi ceară viaţa de la împărăteasa Estera, căci vedea bine că " +
+"pierderea lui era hotărâtă în mintea împăratului. Când s-a întors " +
+"împăratul din grădina casei împărăteşti în odaia ospăţului, a văzut pe " +
+"Haman că se aruncase spre patul pe care era Estera şi i-a zis: \"Cum, " +
+"să mai şi sileşti pe împărăteasă, la mine, în casa împărătească?\" Cum " +
+"au ieşit cuvintele acestea din gura împăratului, i-au şi acoperit faţa " +
+"lui Haman. Şi Harbona, unul din fameni, a zis în faţa împăratului: \"Iată, " +
+"spânzurătoarea pregătită de Haman pentru Mardoheu, care a vorbit spre " +
+"binele împăratului, este ridicată în casa lui Haman, la o înălţime de " +
+"cincizeci de coţi.\" Împăratul a zis: \"Haman să fie spânzurat pe ea!\" Şi " +
+"au spânzurat pe Haman pe spânzurătoarea pe care o pregătise el pentru " +
+"Mardoheu. Şi mânia împăratului s-a potolit.",
           en: "Esther 7:7-10"
         }
       },
@@ -619,7 +645,23 @@ angular.module('galleryApp', [])
         img: '25.jpg',
         done: 25,
         text: {
-          ro: "Estera 8:1-6",
+          ro: "Estera 8:1-6 În aceeaşi zi, împăratul Ahaşveroş a dat " +
+"împărătesei Estera casa lui Haman, vrăjmaşul iudeilor. Şi Mardoheu a " +
+"venit înaintea împăratului, căci Estera arătase legătura ei de rudenie " +
+"cu el. Împăratul şi-a scos inelul, pe care-l luase înapoi de la Haman, " +
+"şi l-a dat lui Mardoheu. Estera, din partea ei, a pus pe Mardoheu peste " +
+"casa lui Haman. Apoi Estera a vorbit din nou înaintea împăratului. S-a " +
+"aruncat la picioarele lui, a plâns, l-a rugat să oprească urmările " +
+"răutăţii lui Haman, agaghitul, şi izbânda planurilor lui împotriva " +
+"iudeilor. Împăratul a întins toiagul împărătesc de aur Esterei, care s-a " +
+"ridicat şi a stat în picioare înaintea împăratului. Ea a zis atunci: \"Dacă " +
+"împăratul găseşte cu cale şi dacă am căpătat trecere înaintea lui, dacă " +
+"lucrul pare potrivit împăratului şi dacă eu sunt plăcută înaintea lui, " +
+"să se scrie ca să se întoarcă scrisorile făcute de Haman, fiul lui " +
+"Hamedata, agaghitul, şi scrise de el cu gând să piardă pe iudeii care " +
+"sunt în toate ţinuturile împăratului. Căci cum aş putea eu să văd " +
+"nenorocirea care ar atinge pe poporul meu şi cum aş putea să văd " +
+"nimicirea neamului meu?\"",
           en: "Esther 8:1-6"
         }
       },
@@ -628,7 +670,19 @@ angular.module('galleryApp', [])
         img: '26.jpg',
         done: 25,
         text: {
-          ro: "Estera 8:7-9",
+          ro: "Estera 8:7-9 Împăratul Ahaşveroş a zis împărătesei " +
+"Estera şi iudeului Mardoheu: \"Iată, am dat Esterei casa lui Haman, şi " +
+"el a fost spânzurat pe spânzurătoare, pentru că întinsese mâna " +
+"împotriva iudeilor. Scrieţi, dar, în folosul iudeilor cum vă va " +
+"plăcea, în numele împăratului, şi pecetluiţi cu inelul împăratului. " +
+"Căci o scrisoare scrisă în numele împăratului şi pecetluită cu inelul " +
+"împăratului nu poate fi desfiinţată.\" Logofeţii împăratului au fost " +
+"chemaţi în vremea aceea, în a douăzeci şi treia zi a lunii a treia, " +
+"adică luna Sivan, şi au scris, după tot ce a poruncit Mardoheu, " +
+"iudeilor, căpeteniilor oştirii, dregătorilor şi mai marilor celor o " +
+"sută douăzeci şi şapte de ţinuturi aşezate de la India la Etiopia, " +
+"fiecărui ţinut după scrierea lui, fiecărui popor după limba lui, şi " +
+"iudeilor după scrierea şi limba lor.",
           en: "Esther 8:7-9"
         }
       },
@@ -637,7 +691,19 @@ angular.module('galleryApp', [])
         img: '27.jpg',
         done: 25,
         text: {
-          ro: "Estera 8:10-13",
+          ro: "Estera 8:10-13 Au scris în numele împăratului Ahaşveroş şi " +
+"au pecetluit cu inelul împăratului. Au trimis scrisorile prin alergători " +
+"călare pe cai şi catâri născuţi din iepe. Prin aceste scrisori, " +
+"împăratul dădea voie iudeilor, ori în care cetate ar fi fost, să se " +
+"adune şi să-şi apere viaţa, să nimicească, să omoare şi să piardă, " +
+"împreună cu pruncii şi femeile lor, pe toţi aceia din fiecare popor şi " +
+"din fiecare ţinut care ar lua armele să-i lovească, şi să le prade " +
+"averile. Aceasta să se facă într-o singură zi, în toate ţinuturile " +
+"împăratul Ahaşveroş, şi anume în a treisprezecea zi a lunii a " +
+"douăsprezecea, adică luna Adar. Aceste scrisori cuprindeau hotărârea " +
+"care trebuia vestită în fiecare ţinut şi dădeau de ştire tuturor " +
+"popoarelor că iudeii stau gata pentru ziua aceea ca să se răzbune " +
+"pe vrăjmaşii lor.",
           en: "Esther 8:10-13"
         }
       },
@@ -646,7 +712,16 @@ angular.module('galleryApp', [])
         img: '28.jpg',
         done: 25,
         text: {
-          ro: "Estera 8:14-17",
+          ro: "Estera 8:14-17 Alergătorii călare pe cai şi pe catâri au " +
+"plecat îndată şi în toată graba, după porunca împăratului. Hotărârea a " +
+"fost vestită şi în capitala Susa. Mardoheu a ieşit de la împărat cu o " +
+"haină împărătească albastră şi albă, cu o mare cunună de aur şi cu o " +
+"mantie de in subţire şi de purpură. Cetatea Susa striga şi se bucura. " +
+"Pentru iudei nu era decât fericire şi bucurie, veselie şi slavă. " +
+"În fiecare ţinut şi în fiecare cetate, pretutindeni unde ajungea porunca " +
+"împăratului şi hotărârea lui, a fost între iudei bucurie şi veselie, " +
+"ospeţe şi zile de sărbătoare. Şi mulţi oameni dintre popoarele ţării " +
+"s-au făcut iudei, căci îi apucase frica de iudei.",
           en: "Esther 8:14-17"
         }
       },
@@ -655,7 +730,19 @@ angular.module('galleryApp', [])
         img: '29.jpg',
         done: 25,
         text: {
-          ro: "Estera 9:1-4",
+          ro: "Estera 9:1-4 În luna a douăsprezecea, adică luna Adar, în " +
+"a treisprezecea zi a lunii, ziua în care avea să se aducă la îndeplinire " +
+"porunca şi hotărârea împăratului şi când vrăjmaşii iudeilor " +
+"nădăjduiseră să stăpânească peste ei, s-a întâmplat tocmai dimpotrivă, " +
+"că iudeii au stăpânit asupra vrăjmaşilor lor. Iudeii s-au strâns în " +
+"cetăţile lor, în toate ţinuturile împăratului Ahaşveroş, ca să pună mâna " +
+"pe cei ce căutau să-i piardă. Nimeni n-a putut să le stea împotrivă, " +
+"căci frica de ei apucase pe toate popoarele! Şi toţi mai marii " +
+"ţinuturilor, căpeteniile oştirii, dregătorii, slujbaşii împăratului au " +
+"sprijinit pe iudei, din pricina fricii pe care le-o insufla Mardoheu. " +
+"Căci Mardoheu era puternic în casa împăratului, şi faima lui se " +
+"răspândea în toate ţinuturile, pentru că ajungea din ce în ce " +
+"mai puternic.",
           en: "Esther 9:1-4"
         }
       },
@@ -664,7 +751,13 @@ angular.module('galleryApp', [])
         img: '30.jpg',
         done: 25,
         text: {
-          ro: "Estera 9:5-10",
+          ro: "Estera 9:5-10 Iudeii au ucis cu lovituri de sabie pe " +
+"toţi vrăjmaşii lor, i-au omorât şi i-au prăpădit. Au făcut ce au vrut " +
+"cu vrăjmaşii lor. În capitala Susa, iudeii au ucis şi au prăpădit " +
+"cinci sute de oameni, şi au înjunghiat pe Parşandata, Dalfon, Aspata, " +
+"Porata, Adalia, Aridata, Parmaşta, Arizai, Aridai şi Vaiezata, cei zece " +
+"fii ai lui Haman, fiul lui Hamedata, vrăjmaşul iudeilor. Dar n-au pus " +
+"mâna pe averile lor.",
           en: "Esther 9:5-10"
         }
       },
@@ -673,7 +766,23 @@ angular.module('galleryApp', [])
         img: '31.jpg',
         done: 25,
         text: {
-          ro: "Estera 9:11-16",
+          ro: "Estera 9:11-16 În ziua aceea, numărul celor ce " +
+"fuseseră ucişi în capitala Susa a ajuns la cunoştinţa împăratului. Şi " +
+"împăratul a zis împărătesei Estera: \"Iudeii au ucis şi au prăpădit în " +
+"capitala Susa cinci sute de oameni şi pe cei zece fii ai lui Haman. Ce " +
+"vor fi făcut în celelalte ţinuturi ale împăratului?… Care-ţi este " +
+"cererea? Ea îţi va fi împlinită. Ce mai doreşti? Vei căpăta.\" Estera a " +
+"răspuns: \"Dacă împăratul găseşte cu cale, să fie îngăduit iudeilor care " +
+"sunt la Susa să facă şi mâine după porunca de azi şi să spânzure pe " +
+"lemn pe cei zece fii ai lui Haman.\" Şi împăratul a poruncit să se facă " +
+"aşa. Porunca a fost adusă la cunoştinţa poporului din Susa. Au spânzurat " +
+"pe cei zece fii ai lui Haman. Iudeii care se aflau în Susa s-au strâns " +
+"din nou în a paisprezecea zi a lunii Adar şi au ucis în Susa trei sute " +
+"de oameni. Dar n-au pus mâna pe averile lor. Ceilalţi iudei din " +
+"celelalte ţinuturi ale împăratului s-au strâns şi şi-au apărat viaţa. " +
+"Au căpătat astfel odihnă, scăpând de vrăjmaşii lor, şi au ucis " +
+"şaptezeci şi cinci de mii din cei ce le erau vrăjmaşi. Dar n-au pus " +
+"mâna pe averile lor.",
           en: "Esther 9:11-16"
         }
       },
@@ -682,7 +791,23 @@ angular.module('galleryApp', [])
         img: '32.jpg',
         done: 25,
         text: {
-          ro: "Estera 9:17-22",
+          ro: "Estera 9:17-22 Aceste lucruri s-au întâmplat în a " +
+"treisprezecea zi a lunii Adar. În ziua a paisprezecea, iudeii s-au " +
+"odihnit şi au făcut din ea o zi de ospăţ şi de bucurie. " +
+"Cei ce se aflau la Susa s-au strâns în ziua a treisprezecea şi a " +
+"paisprezecea, dar în ziua a cincisprezecea s-au odihnit şi au făcut din " +
+"ea o zi de ospăţ şi de bucurie. De aceea iudeii de la ţară, care " +
+"locuiesc în cetăţi fără ziduri, au făcut din ziua a paisprezecea a " +
+"lunii Adar o zi de bucurie, de ospăţ şi de sărbătoare, în care îşi " +
+"trimit daruri unii altora. Mardoheu a scris aceste lucruri şi a trimis " +
+"scrisori tuturor iudeilor din toate ţinuturile împăratului Ahaşveroş, de " +
+"aproape şi din depărtare. Le poruncea să prăznuiască în fiecare an ziua " +
+"a paisprezecea şi a cincisprezecea a lunii Adar, ca zile în care " +
+"căpătaseră odihnă scăpând de vrăjmaşii lor. Le-a poruncit să " +
+"prăznuiască luna în care întristarea lor se prefăcuse în bucurie, şi " +
+"jalea lor, în zi de sărbătoare, şi să facă din aceste zile nişte zile de " +
+"ospăţ şi de bucurie, când să-şi trimită daruri de mâncare unii altora şi " +
+"să împartă daruri celor lipsiţi.",
           en: "Esther 9:17-22"
         }
       },
@@ -691,7 +816,19 @@ angular.module('galleryApp', [])
         img: '33.jpg',
         done: 25,
         text: {
-          ro: "Estera 9:23-27",
+          ro: "Estera 9:23-27 Iudeii s-au îndatorat să facă ceea ce şi " +
+"începuseră să facă şi ce le scrisese Mardoheu. Căci Haman, fiul lui " +
+"Hamedata, agaghitul, vrăjmaşul tuturor iudeilor, făcuse planul să-i " +
+"piardă şi aruncase Pur, adică sorţul, ca să-i omoare şi să-i nimicească. " +
+"Dar Estera, venind înaintea împăratului, împăratul a poruncit în scris " +
+"să întoarcă asupra capului lui Haman planul cel rău pe care-l făcuse " +
+"împotriva iudeilor şi să-l spânzure pe lemn, pe el şi pe fiii lui. " +
+"De aceea zilele acestea s-au numit Purim, de la numirea Pur. Potrivit cu " +
+"tot cuprinsul acestei scrisori, potrivit cu cele ce văzuseră ei înşişi " +
+"şi potrivit cu cele ce li se întâmplaseră, iudeii au luat pentru ei, " +
+"pentru sămânţa lor şi pentru toţi cei ce se vor lipi de ei hotărârea şi " +
+"îndatorirea neschimbătoare ca să prăznuiască în fiecare an aceste două " +
+"zile, în felul rânduit şi la vremea hotărâtă.",
           en: "Esther 9:23-27"
         }
       },
@@ -700,7 +837,20 @@ angular.module('galleryApp', [])
         img: '34.jpg',
         done: 25,
         text: {
-          ro: "Estera 9:28-32",
+          ro: "Estera 9:28-32 Zilele acestea trebuiau să fie pomenite şi " +
+"prăznuite din neam în neam, în fiecare familie, în fiecare ţinut şi în " +
+"fiecare cetate. Şi zilele acestea Purim nu trebuiau desfiinţate niciodată " +
+"din mijlocul iudeilor, nici să se şteargă aducerea aminte de ele " +
+"printre urmaşii lor. Împărăteasa Estera, fata lui Abihail, şi iudeul " +
+"Mardoheu au scris stăruitor a doua oară pentru ca să întărească " +
+"scrisoarea privitoare la Purim. Au trimis scrisori tuturor iudeilor, în " +
+"cele o sută douăzeci şi şapte de ţinuturi ale împăratului Ahaşveroş. Ele " +
+"cuprindeau cuvinte de pace şi de credincioşie, întărind ţinerea acestor " +
+"zile Purim la vremea hotărâtă, cum le rânduiseră iudeul Mardoheu şi " +
+"împărăteasa Estera pentru ei şi cum şi le rânduiseră şi pentru ei înşişi " +
+"şi pentru sămânţa lor, cu prilejul postului lor şi ţipetelor lor. " +
+"Porunca Esterei a întărit aşezarea acestei sărbători Purim, şi lucrul " +
+"acesta a fost scris în carte.",
           en: "Esther 9:28-32"
         }
       },
@@ -709,7 +859,14 @@ angular.module('galleryApp', [])
         img: '35.jpg',
         done: 25,
         text: {
-          ro: "Estera 10:1-3",
+          ro: "Estera 10:1-3 Împăratul Ahaşveroş a pus un bir asupra ţării " +
+"şi asupra ostroavelor mării. Toate faptele privitoare la puterea lui şi " +
+"isprăvile lui şi amănuntele despre mărimea la care a ridicat împăratul " +
+"pe Mardoheu, nu sunt scrise în cartea Cronicilor împăraţilor Mezilor şi " +
+"Perşilor? Căci Iudeul Mardoheu era cel dintâi după împăratul Ahaşveroş. " +
+"El era cu vază între Iudei şi iubit de mulţimea fraţilor săi, căci a " +
+"căutat binele poporului său şi a vorbit pentru fericirea întregului " +
+"său neam.",
           en: "Esther 10:1-3"
         }
       }
