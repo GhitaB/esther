@@ -679,7 +679,20 @@ angular.module('galleryApp', [])
             "pregătit.\" Şi împăratul a zis: \"Duceţi-vă îndată şi " +
             "aduceţi pe Haman, cum doreşte Estera.\" Împăratul s-a dus " +
             "cu Haman la ospăţul pe care-l pregătise Estera.",
-          en: "Esther 5:1-5"
+          en: "Esther 5:1-5 Now it came to pass on the third day, that " +
+"Esther put on her royal apparel, and stood in the inner court of the " +
+"king's house, over against the king's house: and the king sat upon his " +
+"royal throne in the royal house, over against the gate of the house. " +
+"And it was so, when the king saw Esther the queen standing in the court, " +
+"that she obtained favour in his sight: and the king held out to Esther " +
+"the golden sceptre that was in his hand. So Esther drew near, and " +
+"touched the top of the sceptre. Then said the king unto her, What wilt " +
+"thou, queen Esther? and what is thy request? it shall be even given thee " +
+"to the half of the kingdom. And Esther answered, If it seem good unto the " +
+"king, let the king and Haman come this day unto the banquet that I have " +
+"prepared for him. Then the king said, Cause Haman to make haste, that he " +
+"may do as Esther hath said. So the king and Haman came to the banquet " +
+"that Esther had prepared."
         }
       },
       {
