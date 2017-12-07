@@ -98,7 +98,7 @@ angular.module('galleryApp', [])
       {
         id: 1,
         img: '01.png',
-        done: 30,
+        done: 40,
         text: {
           ro: "Estera 1:1-4: Era pe vremea lui Ahaşveroş, al acelui " +
             "Ahaşveroş care domnea de la India până în Etiopia, peste o " +
@@ -126,7 +126,7 @@ angular.module('galleryApp', [])
       {
         id: 2,
         img: '02.png',
-        done: 30,
+        done: 40,
         text: {
           ro: "Estera 1:5-8: După ce au trecut aceste zile, împăratul a " +
             "dat întregului popor care se afla în capitala Susa, de la cel " +
