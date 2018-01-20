@@ -32,19 +32,14 @@ angular.module('galleryApp', [])
       en: "Complete"
     };
 
-    gallery.you_can_help = {
-      ro: "Poți să ajuți.",
-      en: "You can help."
-    };
-
     gallery.credits = {
       title: {
         ro: "Despre",
         en: "About"
       },
       text: {
-        ro: "Autori: Ghiță Bizău, Adriana Precup",
-        en: "Authors: Ghiță Bizău, Adriana Precup"
+        ro: "Echipa: Teodora Stroia, Serginia Tătaru, Adriana Precup, Horia Ioniță, Ghiță Bizău",
+        en: "Team: Teodora Stroia, Serginia Tătaru, Adriana Precup, Horia Ioniță, Ghiță Bizău"
       }
     };
 
