@@ -1,7 +1,7 @@
 angular.module('galleryApp', [])
   .controller('galleryController', function() {
     var gallery = this;
-    gallery.language = "en";
+    gallery.language = "ro";
 
     gallery.get_global_progress = function() {
       var index;
